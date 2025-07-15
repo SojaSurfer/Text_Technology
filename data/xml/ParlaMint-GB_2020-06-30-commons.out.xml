@@ -1,0 +1,36 @@
+<debate xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <date>2020-06-30</date>
+  <chamber>House of Commons</chamber>
+  <speaker>
+    <id>#SimonBaynes</id>
+    <name>Simon Baynes</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#CarolineNokes</id>
+    <name>Caroline Nokes</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#MargaretGreenwood</id>
+    <name>Margaret Greenwood</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#JamesCleverly</id>
+    <name>James Cleverly</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>4</contributions>
+  </speaker>
+</debate>

@@ -1,0 +1,164 @@
+<debate xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <date>2017-11-30</date>
+  <chamber>House of Commons</chamber>
+  <speaker>
+    <id>#AndrewMitchell</id>
+    <name>Andrew Mitchell</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>16</contributions>
+  </speaker>
+  <speaker>
+    <id>#HilaryBenn</id>
+    <name>Hilary Benn</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>4</contributions>
+  </speaker>
+  <speaker>
+    <id>#GrahamJones</id>
+    <name>Graham Jones</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>8</contributions>
+  </speaker>
+  <speaker>
+    <id>#JohnSpellar</id>
+    <name>John Spellar</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#RobertStewart</id>
+    <name>Robert Stewart</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#KeithVaz</id>
+    <name>Keith Vaz</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>5</contributions>
+  </speaker>
+  <speaker>
+    <id>#ThomasTugendhat</id>
+    <name>Thomas Tugendhat</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>3</contributions>
+  </speaker>
+  <speaker>
+    <id>#AlistairBurt</id>
+    <name>Alistair Burt</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>18</contributions>
+  </speaker>
+  <speaker>
+    <id>#EmilyThornberry</id>
+    <name>Emily Thornberry</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>6</contributions>
+  </speaker>
+  <speaker>
+    <id>#StephenTwigg</id>
+    <name>Stephen Twigg</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>3</contributions>
+  </speaker>
+  <speaker>
+    <id>#AlisonThewliss</id>
+    <name>Alison Thewliss</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Scottish National Party</party>
+    <contributions>4</contributions>
+  </speaker>
+  <speaker>
+    <id>#MichaelGapes</id>
+    <name>Michael Gapes</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#StephenDoughty</id>
+    <name>Stephen Doughty</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#JeremyLefroy</id>
+    <name>Jeremy Lefroy</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#JamesCunningham</id>
+    <name>James Cunningham</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#RossThomson</id>
+    <name>Ross Thomson</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#CliveLewis</id>
+    <name>Clive Lewis</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#LindsayHoyle</id>
+    <name>Lindsay Hoyle</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#RobertaBlackmanWoods</id>
+    <name>Roberta Blackman-Woods</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#StewartMcDonald</id>
+    <name>Stewart McDonald</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Scottish National Party</party>
+    <contributions>2</contributions>
+  </speaker>
+</debate>

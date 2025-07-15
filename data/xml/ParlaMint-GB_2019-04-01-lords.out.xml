@@ -1,0 +1,116 @@
+<debate xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <date>2019-04-01</date>
+  <chamber>House of Lords</chamber>
+  <speaker>
+    <id>#DavidHowell</id>
+    <name>David Howell</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>3</contributions>
+  </speaker>
+  <speaker>
+    <id>#ValerieAmos</id>
+    <name>Valerie Amos</name>
+    <sex>F</sex>
+    <parliament>House of Lords</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#RichardLuce</id>
+    <name>Richard Luce</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#JulieSmith</id>
+    <name>Julie Smith</name>
+    <sex>F</sex>
+    <parliament>House of Lords</parliament>
+    <party>Liberal Democrat</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#JoyceAnelay</id>
+    <name>Joyce Anelay</name>
+    <sex>F</sex>
+    <parliament>House of Lords</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#DavidHannay</id>
+    <name>David Hannay</name>
+    <sex>M</sex>
+    <parliament>House of Lords</parliament>
+    <party>Crossbench</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#JeanCoussins</id>
+    <name>Jean Coussins</name>
+    <sex>F</sex>
+    <parliament>House of Lords</parliament>
+    <party>Crossbench</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#ThomasJopling</id>
+    <name>Thomas Jopling</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#FrankJudd</id>
+    <name>Frank Judd</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#DavidAlton</id>
+    <name>David Alton</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Liberal</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#JohnAnderson</id>
+    <name>John Anderson</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Crossbench</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#JeremyPurvis</id>
+    <name>Jeremy Purvis</name>
+    <sex>M</sex>
+    <parliament>House of Lords</parliament>
+    <party>Liberal Democrat</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#RaymondCollins</id>
+    <name>Raymond Collins</name>
+    <sex>M</sex>
+    <parliament>House of Lords</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#TariqAhmad</id>
+    <name>Tariq Ahmad</name>
+    <sex>M</sex>
+    <parliament>House of Lords</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+</debate>

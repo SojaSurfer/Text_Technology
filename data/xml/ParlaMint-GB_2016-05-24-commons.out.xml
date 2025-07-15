@@ -1,0 +1,212 @@
+<debate xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <date>2016-05-24</date>
+  <chamber>House of Commons</chamber>
+  <speaker>
+    <id>#KeithVaz</id>
+    <name>Keith Vaz</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>4</contributions>
+  </speaker>
+  <speaker>
+    <id>#TobiasEllwood</id>
+    <name>Tobias Ellwood</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>3</contributions>
+  </speaker>
+  <speaker>
+    <id>#StephenDoughty</id>
+    <name>Stephen Doughty</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#TasminaAhmedSheikh</id>
+    <name>Tasmina Ahmed-Sheikh</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Scottish National Party</party>
+    <contributions>3</contributions>
+  </speaker>
+  <speaker>
+    <id>#PhilipDunne</id>
+    <name>Philip Dunne</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>25</contributions>
+  </speaker>
+  <speaker>
+    <id>#AlanDuncan</id>
+    <name>Alan Duncan</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#EmilyThornberry</id>
+    <name>Emily Thornberry</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#ChrisWhite</id>
+    <name>Chris White</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#KirstenOswald</id>
+    <name>Kirsten Oswald</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Scottish National Party</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#KevinFoster</id>
+    <name>Kevin Foster</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#ValerieVaz</id>
+    <name>Valerie Vaz</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#ThomasBrake</id>
+    <name>Thomas Brake</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Liberal Democrat</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#KevanJones</id>
+    <name>Kevan Jones</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#RichardShannon</id>
+    <name>Richard Shannon</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Democratic Unionist Party</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#OliverHeald</id>
+    <name>Oliver Heald</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#AlisonMcGovern</id>
+    <name>Alison McGovern</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#JeremyLefroy</id>
+    <name>Jeremy Lefroy</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#AlisonThewliss</id>
+    <name>Alison Thewliss</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Scottish National Party</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#TaniaMathias</id>
+    <name>Tania Mathias</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>3</contributions>
+  </speaker>
+  <speaker>
+    <id>#JohnBercow</id>
+    <name>John Bercow</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#MartinDochertyHughes</id>
+    <name>Martin Docherty-Hughes</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Scottish National Party</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#JohnDurkan</id>
+    <name>John Durkan</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Social Democratic &amp; Labour Party</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#PatrickGrady</id>
+    <name>Patrick Grady</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Scottish National Party</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#PeterGrant</id>
+    <name>Peter Grant</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Scottish National Party</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#JeffreySmith</id>
+    <name>Jeffrey Smith</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#LisaCameron</id>
+    <name>Lisa Cameron</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Scottish National Party</party>
+    <contributions>1</contributions>
+  </speaker>
+</debate>

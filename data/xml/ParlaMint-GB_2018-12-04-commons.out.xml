@@ -1,0 +1,100 @@
+<debate xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <date>2018-12-04</date>
+  <chamber>House of Commons</chamber>
+  <speaker>
+    <id>#LeoDocherty</id>
+    <name>Leo Docherty</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#HannahBardell</id>
+    <name>Hannah Bardell</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Scottish National Party</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#GeoffreyCliftonBrown</id>
+    <name>Geoffrey Clifton-Brown</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#RossThomson</id>
+    <name>Ross Thomson</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#GavinNewlands</id>
+    <name>Gavin Newlands</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Scottish National Party</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#JeremyHunt</id>
+    <name>Jeremy Hunt</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>13</contributions>
+  </speaker>
+  <speaker>
+    <id>#PaulineLatham</id>
+    <name>Pauline Latham</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#MatthewWarman</id>
+    <name>Matthew Warman</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#StephenTwigg</id>
+    <name>Stephen Twigg</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#KeithVaz</id>
+    <name>Keith Vaz</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#JohnCable</id>
+    <name>John Cable</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Liberal Democrat</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#EmilyThornberry</id>
+    <name>Emily Thornberry</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>2</contributions>
+  </speaker>
+</debate>

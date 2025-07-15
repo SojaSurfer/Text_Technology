@@ -1,0 +1,36 @@
+<debate xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <date>2018-01-17</date>
+  <chamber>House of Commons</chamber>
+  <speaker>
+    <id>#RichardBurden</id>
+    <name>Richard Burden</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#AlistairBurt</id>
+    <name>Alistair Burt</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>4</contributions>
+  </speaker>
+  <speaker>
+    <id>#StephenTwigg</id>
+    <name>Stephen Twigg</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#ChristopherLaw</id>
+    <name>Christopher Law</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Scottish National Party</party>
+    <contributions>1</contributions>
+  </speaker>
+</debate>

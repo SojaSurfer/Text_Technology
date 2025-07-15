@@ -1,0 +1,52 @@
+<debate xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <date>2019-02-25</date>
+  <chamber>House of Lords</chamber>
+  <speaker>
+    <id>#JoyceAnelay</id>
+    <name>Joyce Anelay</name>
+    <sex>F</sex>
+    <parliament>House of Lords</parliament>
+    <party>Conservative</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#AnnabelGoldie</id>
+    <name>Annabel Goldie</name>
+    <sex>F</sex>
+    <parliament>House of Lords</parliament>
+    <party>Conservative</party>
+    <contributions>6</contributions>
+  </speaker>
+  <speaker>
+    <id>#LindsayGranshaw</id>
+    <name>Lindsay Granshaw</name>
+    <sex>F</sex>
+    <parliament>House of Lords</parliament>
+    <party>Liberal Democrat</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#DavidHannay</id>
+    <name>David Hannay</name>
+    <sex>M</sex>
+    <parliament>House of Lords</parliament>
+    <party>Crossbench</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#FrankJudd</id>
+    <name>Frank Judd</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#JohnRoberts</id>
+    <name>John Roberts</name>
+    <sex>M</sex>
+    <parliament>House of Lords</parliament>
+    <party>Liberal Democrat</party>
+    <contributions>1</contributions>
+  </speaker>
+</debate>

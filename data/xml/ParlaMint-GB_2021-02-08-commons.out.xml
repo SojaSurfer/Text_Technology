@@ -1,0 +1,220 @@
+<debate xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <date>2021-02-08</date>
+  <chamber>House of Commons</chamber>
+  <speaker>
+    <id>#TobiasEllwood</id>
+    <name>Tobias Ellwood</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#JamesCleverly</id>
+    <name>James Cleverly</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>26</contributions>
+  </speaker>
+  <speaker>
+    <id>#LisaNandy</id>
+    <name>Lisa Nandy</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#LindsayHoyle</id>
+    <name>Lindsay Hoyle</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#ThomasTugendhat</id>
+    <name>Thomas Tugendhat</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#AlynSmith</id>
+    <name>Alyn Smith</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Scottish National Party</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#DavidMundell</id>
+    <name>David Mundell</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#LaylaMoran</id>
+    <name>Layla Moran</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Liberal Democrat</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#JohnHowell</id>
+    <name>John Howell</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#RichardShannon</id>
+    <name>Richard Shannon</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Democratic Unionist Party</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#ScottBenton</id>
+    <name>Scott Benton</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#JeremyCorbyn</id>
+    <name>Jeremy Corbyn</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#TimothyLoughton</id>
+    <name>Timothy Loughton</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#SarahChampion</id>
+    <name>Sarah Champion</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#PhilipHollobone</id>
+    <name>Philip Hollobone</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#PeterGrant</id>
+    <name>Peter Grant</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Scottish National Party</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#RobertStewart</id>
+    <name>Robert Stewart</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#GillianFurniss</id>
+    <name>Gillian Furniss</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#NicolaAiken</id>
+    <name>Nicola Aiken</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#AndrewGwynne</id>
+    <name>Andrew Gwynne</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#FeliciaDrummond</id>
+    <name>Felicia Drummond</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#ChinyeluOnwurah</id>
+    <name>Chinyelu Onwurah</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#DehennaFareham</id>
+    <name>Dehenna Fareham</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#LloydRussellMoyle</id>
+    <name>Lloyd Russell-Moyle</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#AntonyHigginbotham</id>
+    <name>Antony Higginbotham</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#PatriciaGibson</id>
+    <name>Patricia Gibson</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Scottish National Party</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#RobertBlackman</id>
+    <name>Robert Blackman</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+</debate>

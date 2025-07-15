@@ -1,0 +1,44 @@
+<debate xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <date>2018-06-11</date>
+  <chamber>House of Lords</chamber>
+  <speaker>
+    <id>#TariqAhmad</id>
+    <name>Tariq Ahmad</name>
+    <sex>M</sex>
+    <parliament>House of Lords</parliament>
+    <party>Conservative</party>
+    <contributions>5</contributions>
+  </speaker>
+  <speaker>
+    <id>#RaymondCollins</id>
+    <name>Raymond Collins</name>
+    <sex>M</sex>
+    <parliament>House of Lords</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#BarbaraJanke</id>
+    <name>Barbara Janke</name>
+    <sex>F</sex>
+    <parliament>House of Lords</parliament>
+    <party>Liberal Democrat</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#DesmondBrowne</id>
+    <name>Desmond Browne</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#JohnAnderson</id>
+    <name>John Anderson</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Crossbench</party>
+    <contributions>1</contributions>
+  </speaker>
+</debate>

@@ -1,0 +1,116 @@
+<debate xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <date>2017-11-07</date>
+  <chamber>House of Commons</chamber>
+  <speaker>
+    <id>#StephenTwigg</id>
+    <name>Stephen Twigg</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#AlistairBurt</id>
+    <name>Alistair Burt</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>15</contributions>
+  </speaker>
+  <speaker>
+    <id>#PaulineLatham</id>
+    <name>Pauline Latham</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#KateOsamor</id>
+    <name>Kate Osamor</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#JulianLewis</id>
+    <name>Julian Lewis</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#StewartMcDonald</id>
+    <name>Stewart McDonald</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Scottish National Party</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#CrispinBlunt</id>
+    <name>Crispin Blunt</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#JohnWoodcock</id>
+    <name>John Woodcock</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#ThomasTugendhat</id>
+    <name>Thomas Tugendhat</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#AnnClwyd</id>
+    <name>Ann Clwyd</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#MiriamDavies</id>
+    <name>Miriam Davies</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#JoanneSwinson</id>
+    <name>Joanne Swinson</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Liberal Democrat</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#MichaelWood</id>
+    <name>Michael Wood</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#RichardShannon</id>
+    <name>Richard Shannon</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Democratic Unionist Party</party>
+    <contributions>1</contributions>
+  </speaker>
+</debate>

@@ -1,0 +1,100 @@
+<debate xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <date>2020-06-04</date>
+  <chamber>House of Lords</chamber>
+  <speaker>
+    <id>#RaymondCollins</id>
+    <name>Raymond Collins</name>
+    <sex>M</sex>
+    <parliament>House of Lords</parliament>
+    <party>Labour</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#TariqAhmad</id>
+    <name>Tariq Ahmad</name>
+    <sex>M</sex>
+    <parliament>House of Lords</parliament>
+    <party>Conservative</party>
+    <contributions>11</contributions>
+  </speaker>
+  <speaker>
+    <id>#RobertHayward</id>
+    <name>Robert Hayward</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#JulieSmith</id>
+    <name>Julie Smith</name>
+    <sex>F</sex>
+    <parliament>House of Lords</parliament>
+    <party>Liberal Democrat</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#IndarjitSingh</id>
+    <name>Indarjit Singh</name>
+    <sex>M</sex>
+    <parliament>House of Lords</parliament>
+    <party>Crossbench</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#TessaBlackstone</id>
+    <name>Tessa Blackstone</name>
+    <sex>F</sex>
+    <parliament>House of Lords</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#ChristopherHolmes</id>
+    <name>Christopher Holmes</name>
+    <sex>M</sex>
+    <parliament>House of Lords</parliament>
+    <party>Non-affiliated</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#MichaelGerman</id>
+    <name>Michael German</name>
+    <sex>M</sex>
+    <parliament>House of Lords</parliament>
+    <party>Liberal Democrat</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#JohnMcFall</id>
+    <name>John McFall</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#JohnReid</id>
+    <name>John Reid</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#PeterHain</id>
+    <name>Peter Hain</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#GeorgeFoulkes</id>
+    <name>George Foulkes</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+</debate>

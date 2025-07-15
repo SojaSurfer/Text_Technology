@@ -1,0 +1,44 @@
+<debate xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <date>2019-02-28</date>
+  <chamber>House of Commons</chamber>
+  <speaker>
+    <id>#KeithVaz</id>
+    <name>Keith Vaz</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>4</contributions>
+  </speaker>
+  <speaker>
+    <id>#AlisonThewliss</id>
+    <name>Alison Thewliss</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Scottish National Party</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#TimothyLoughton</id>
+    <name>Timothy Loughton</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#AlistairBurt</id>
+    <name>Alistair Burt</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>4</contributions>
+  </speaker>
+  <speaker>
+    <id>#EleanorLaing</id>
+    <name>Eleanor Laing</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+</debate>

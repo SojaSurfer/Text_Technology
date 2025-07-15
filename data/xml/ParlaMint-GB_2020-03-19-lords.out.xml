@@ -1,0 +1,52 @@
+<debate xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <date>2020-03-19</date>
+  <chamber>House of Lords</chamber>
+  <speaker>
+    <id>#AlanSmith</id>
+    <name>Alan Smith</name>
+    <sex>M</sex>
+    <parliament>House of Lords</parliament>
+    <party>Bishops</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#TariqAhmad</id>
+    <name>Tariq Ahmad</name>
+    <sex>M</sex>
+    <parliament>House of Lords</parliament>
+    <party>Conservative</party>
+    <contributions>6</contributions>
+  </speaker>
+  <speaker>
+    <id>#RaymondCollins</id>
+    <name>Raymond Collins</name>
+    <sex>M</sex>
+    <parliament>House of Lords</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#ShaistaSheehan</id>
+    <name>Shaista Sheehan</name>
+    <sex>F</sex>
+    <parliament>House of Lords</parliament>
+    <party>Liberal Democrat</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#DavidAlton</id>
+    <name>David Alton</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Liberal</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#AndrewAdonis</id>
+    <name>Andrew Adonis</name>
+    <sex>M</sex>
+    <parliament>House of Lords</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+</debate>

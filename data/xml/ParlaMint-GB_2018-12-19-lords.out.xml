@@ -1,0 +1,108 @@
+<debate xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <date>2018-12-19</date>
+  <chamber>House of Lords</chamber>
+  <speaker>
+    <id>#TariqAhmad</id>
+    <name>Tariq Ahmad</name>
+    <sex>M</sex>
+    <parliament>House of Lords</parliament>
+    <party>Conservative</party>
+    <contributions>12</contributions>
+  </speaker>
+  <speaker>
+    <id>#RaymondCollins</id>
+    <name>Raymond Collins</name>
+    <sex>M</sex>
+    <parliament>House of Lords</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#LindsayGranshaw</id>
+    <name>Lindsay Granshaw</name>
+    <sex>F</sex>
+    <parliament>House of Lords</parliament>
+    <party>Liberal Democrat</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#TessaBlackstone</id>
+    <name>Tessa Blackstone</name>
+    <sex>F</sex>
+    <parliament>House of Lords</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#DavidHannay</id>
+    <name>David Hannay</name>
+    <sex>M</sex>
+    <parliament>House of Lords</parliament>
+    <party>Crossbench</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#MenziesCampbell</id>
+    <name>Menzies Campbell</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Liberal</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#DavidLea</id>
+    <name>David Lea</name>
+    <sex>M</sex>
+    <parliament>House of Lords</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#HeleneHayman</id>
+    <name>Helene Hayman</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#JohnMontagu</id>
+    <name>John Montagu</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Crossbench</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#FrancesDSouza</id>
+    <name>Frances D'Souza</name>
+    <sex>F</sex>
+    <parliament>House of Lords</parliament>
+    <party>Crossbench</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#JeremyBeecham</id>
+    <name>Jeremy Beecham</name>
+    <sex>M</sex>
+    <parliament>House of Lords</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#AndrewAdonis</id>
+    <name>Andrew Adonis</name>
+    <sex>M</sex>
+    <parliament>House of Lords</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#JohnAnderson</id>
+    <name>John Anderson</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Crossbench</party>
+    <contributions>1</contributions>
+  </speaker>
+</debate>

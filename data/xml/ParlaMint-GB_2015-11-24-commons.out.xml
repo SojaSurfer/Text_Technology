@@ -1,0 +1,44 @@
+<debate xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <date>2015-11-24</date>
+  <chamber>House of Commons</chamber>
+  <speaker>
+    <id>#MartynDay</id>
+    <name>Martyn Day</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Scottish National Party</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#TobiasEllwood</id>
+    <name>Tobias Ellwood</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>4</contributions>
+  </speaker>
+  <speaker>
+    <id>#EdwardArgar</id>
+    <name>Edward Argar</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#DianaJohnson</id>
+    <name>Diana Johnson</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#JohnBercow</id>
+    <name>John Bercow</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+</debate>

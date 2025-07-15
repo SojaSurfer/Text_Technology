@@ -53,5 +53,5 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 
-
-data/
+# do not add the raw data
+data/raw/

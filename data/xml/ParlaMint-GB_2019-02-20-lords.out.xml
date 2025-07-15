@@ -1,0 +1,36 @@
+<debate xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <date>2019-02-20</date>
+  <chamber>House of Lords</chamber>
+  <speaker>
+    <id>#DenisTunnicliffe</id>
+    <name>Denis Tunnicliffe</name>
+    <sex>M</sex>
+    <parliament>House of Lords</parliament>
+    <party>Labour</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#RonaFairhead</id>
+    <name>Rona Fairhead</name>
+    <sex>F</sex>
+    <parliament>House of Lords</parliament>
+    <party>Conservative</party>
+    <contributions>4</contributions>
+  </speaker>
+  <speaker>
+    <id>#DavidHowell</id>
+    <name>David Howell</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#JeremyPurvis</id>
+    <name>Jeremy Purvis</name>
+    <sex>M</sex>
+    <parliament>House of Lords</parliament>
+    <party>Liberal Democrat</party>
+    <contributions>1</contributions>
+  </speaker>
+</debate>

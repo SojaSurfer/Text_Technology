@@ -1,0 +1,36 @@
+<debate xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <date>2019-01-22</date>
+  <chamber>House of Commons</chamber>
+  <speaker>
+    <id>#MaryTwist</id>
+    <name>Mary Twist</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#RuthGeorge</id>
+    <name>Ruth George</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#JeremyHunt</id>
+    <name>Jeremy Hunt</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>4</contributions>
+  </speaker>
+  <speaker>
+    <id>#KevinBrennan</id>
+    <name>Kevin Brennan</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+</debate>

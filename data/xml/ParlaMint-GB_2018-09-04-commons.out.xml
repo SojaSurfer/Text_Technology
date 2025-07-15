@@ -1,0 +1,60 @@
+<debate xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <date>2018-09-04</date>
+  <chamber>House of Commons</chamber>
+  <speaker>
+    <id>#PeterGrant</id>
+    <name>Peter Grant</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Scottish National Party</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#DouglasChapman</id>
+    <name>Douglas Chapman</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Scottish National Party</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#GillianFurniss</id>
+    <name>Gillian Furniss</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#RonnieCampbell</id>
+    <name>Ronnie Campbell</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#AlistairBurt</id>
+    <name>Alistair Burt</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>7</contributions>
+  </speaker>
+  <speaker>
+    <id>#DanielKawczynski</id>
+    <name>Daniel Kawczynski</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#FabianHamilton</id>
+    <name>Fabian Hamilton</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+</debate>

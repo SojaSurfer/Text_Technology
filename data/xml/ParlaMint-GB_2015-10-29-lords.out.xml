@@ -1,0 +1,76 @@
+<debate xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <date>2015-10-29</date>
+  <chamber>House of Lords</chamber>
+  <speaker>
+    <id>#EricLubbock</id>
+    <name>Eric Lubbock</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Liberal Democrat</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#JamesStopford</id>
+    <name>James Stopford</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>9</contributions>
+  </speaker>
+  <speaker>
+    <id>#DonaldAnderson</id>
+    <name>Donald Anderson</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#SayeedaWarsi</id>
+    <name>Sayeeda Warsi</name>
+    <sex>F</sex>
+    <parliament>House of Lords</parliament>
+    <party>Conservative</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#GlenysKinnock</id>
+    <name>Glenys Kinnock</name>
+    <sex>F</sex>
+    <parliament>House of Lords</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#AndrewFleming</id>
+    <name>Andrew Fleming</name>
+    <sex>M</sex>
+    <parliament>House of Lords</parliament>
+    <party>Crossbench</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#NazirAhmed</id>
+    <name>Nazir Ahmed</name>
+    <sex>M</sex>
+    <parliament>House of Lords</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#WilliamWallace</id>
+    <name>William Wallace</name>
+    <sex>M</sex>
+    <parliament>House of Lords</parliament>
+    <party>Liberal Democrat</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#RaymondCollins</id>
+    <name>Raymond Collins</name>
+    <sex>M</sex>
+    <parliament>House of Lords</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+</debate>

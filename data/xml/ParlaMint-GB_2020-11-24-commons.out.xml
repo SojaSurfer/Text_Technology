@@ -1,0 +1,20 @@
+<debate xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <date>2020-11-24</date>
+  <chamber>House of Commons</chamber>
+  <speaker>
+    <id>#AdamHolloway</id>
+    <name>Adam Holloway</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>2</contributions>
+  </speaker>
+  <speaker>
+    <id>#JamesCleverly</id>
+    <name>James Cleverly</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>2</contributions>
+  </speaker>
+</debate>

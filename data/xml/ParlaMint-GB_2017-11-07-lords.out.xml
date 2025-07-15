@@ -1,0 +1,44 @@
+<debate xmlns:tei="http://www.tei-c.org/ns/1.0">
+  <date>2017-11-07</date>
+  <chamber>House of Lords</chamber>
+  <speaker>
+    <id>#MichaelBates</id>
+    <name>Michael Bates</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Conservative</party>
+    <contributions>5</contributions>
+  </speaker>
+  <speaker>
+    <id>#RaymondCollins</id>
+    <name>Raymond Collins</name>
+    <sex>M</sex>
+    <parliament>House of Lords</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#MenziesCampbell</id>
+    <name>Menzies Campbell</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Liberal</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#HeleneHayman</id>
+    <name>Helene Hayman</name>
+    <sex>F</sex>
+    <parliament>House of Commons</parliament>
+    <party>Labour</party>
+    <contributions>1</contributions>
+  </speaker>
+  <speaker>
+    <id>#DavidAlton</id>
+    <name>David Alton</name>
+    <sex>M</sex>
+    <parliament>House of Commons</parliament>
+    <party>Liberal</party>
+    <contributions>1</contributions>
+  </speaker>
+</debate>

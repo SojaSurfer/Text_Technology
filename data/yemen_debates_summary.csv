@@ -1,0 +1,981 @@
+Date,Speaker ID,Sex,Parliament,Party,Speech Count
+2024-05-14,#KeithVaz,M,House of Commons,Labour,2
+2024-05-14,#TobiasEllwood,M,House of Commons,Conservative,13
+2024-05-14,#RichardOttaway,M,House of Commons,Conservative,1
+2024-05-14,#JeremyCorbyn,M,House of Commons,Labour,1
+2024-05-14,#AlanDuncan,M,House of Commons,Conservative,1
+2024-05-14,#JohnSpellar,M,House of Commons,Labour,1
+2024-05-14,#TimothyFarron,M,House of Commons,Liberal Democrat,1
+2024-05-14,#StephenDoughty,M,House of Commons,Labour,1
+2024-05-14,#PeterLuff,M,House of Commons,Conservative,1
+2024-05-14,#StephenMcCabe,M,House of Commons,Labour,1
+2024-05-14,#RobertBlackman,M,House of Commons,Conservative,1
+2024-05-14,#MarkReckless,M,House of Commons,Conservative,1
+2024-05-14,#RichardShannon,M,House of Commons,Democratic Unionist Party,1
+2024-05-14,#JoyceAnelay,F,House of Lords,Conservative,8
+2024-05-14,#MairMorgan,F,House of Lords,Labour,1
+2024-05-14,#KishwerFalkner,F,House of Lords,Liberal Democrat,1
+2024-05-14,#DonaldAnderson,M,House of Commons,Labour,1
+2024-05-14,#DavidHowell,M,House of Commons,Conservative,1
+2024-05-14,#AlanWest,M,House of Lords,Labour,1
+2024-05-14,#DavidLea,M,House of Lords,Labour,1
+2024-05-14,#ElizabethSymons,F,House of Lords,Labour,1
+2024-05-14,#LucianaGoldsmithBerger,F,House of Commons,Labour,1
+2024-05-14,#LouiseEllman,F,House of Commons,Labour,1
+2024-05-14,#EricLubbock,M,House of Commons,Liberal Democrat,2
+2024-05-14,#JamesStopford,M,House of Commons,Conservative,9
+2024-05-14,#DonaldAnderson,M,House of Commons,Labour,1
+2024-05-14,#SayeedaWarsi,F,House of Lords,Conservative,1
+2024-05-14,#GlenysKinnock,F,House of Lords,Labour,1
+2024-05-14,#AndrewFleming,M,House of Lords,Crossbench,1
+2024-05-14,#NazirAhmed,M,House of Lords,Labour,1
+2024-05-14,#WilliamWallace,M,House of Lords,Liberal Democrat,1
+2024-05-14,#RaymondCollins,M,House of Lords,Labour,1
+2024-05-14,#MartynDay,M,House of Commons,Scottish National Party,2
+2024-05-14,#TobiasEllwood,M,House of Commons,Conservative,4
+2024-05-14,#EdwardArgar,M,House of Commons,Conservative,1
+2024-05-14,#DianaJohnson,F,House of Commons,Labour,1
+2024-05-14,#JohnBercow,M,House of Commons,Conservative,1
+2024-05-14,#StephenPhillips,M,House of Commons,Conservative,2
+2024-05-14,#DesmondSwayne,M,House of Commons,Conservative,7
+2024-05-14,#KeithVaz,M,House of Commons,Labour,1
+2024-05-14,#DavidJones,M,House of Commons,Conservative,1
+2024-05-14,#ThomasBrake,M,House of Commons,Liberal Democrat,1
+2024-05-14,#MichaelKane,M,House of Commons,Labour,1
+2024-05-14,#TasminaAhmedSheikh,F,House of Commons,Scottish National Party,1
+2024-05-14,#JohnBercow,M,House of Commons,Conservative,1
+2024-05-14,#LaurenceRobertson,M,House of Commons,Conservative,2
+2024-05-14,#DesmondSwayne,M,House of Commons,Conservative,9
+2024-05-14,#StephenTwigg,M,House of Commons,Labour,1
+2024-05-14,#HelenGrant,F,House of Commons,Conservative,1
+2024-05-14,#GiselaStuart,F,House of Commons,Labour,1
+2024-05-14,#DianeAbbott,F,House of Commons,Labour,1
+2024-05-14,#TasminaAhmedSheikh,F,House of Commons,Scottish National Party,2
+2024-05-14,#AlanDuncan,M,House of Commons,Conservative,1
+2024-05-14,#KirstenOswald,F,House of Commons,Scottish National Party,7
+2024-05-14,#StephenGethins,M,House of Commons,Scottish National Party,1
+2024-05-14,#KevinFoster,M,House of Commons,Conservative,5
+2024-05-14,#TobiasEllwood,M,House of Commons,Conservative,3
+2024-05-14,#EdwardArgar,M,House of Commons,Conservative,4
+2024-05-14,#WendyMorton,F,House of Commons,Conservative,3
+2024-05-14,#EleanorLaing,F,House of Commons,Conservative,2
+2024-05-14,#KeithVaz,M,House of Commons,Labour,3
+2024-05-14,#TimothyLoughton,M,House of Commons,Conservative,1
+2024-05-14,#StephenTwigg,M,House of Commons,Labour,2
+2024-05-14,#ValerieVaz,F,House of Commons,Labour,1
+2024-05-14,#FionaBruce,F,House of Commons,Conservative,1
+2024-05-14,#AlisonThewliss,F,House of Commons,Scottish National Party,2
+2024-05-14,#LindsayHoyle,M,House of Commons,Labour,3
+2024-05-14,#LisaCameron,F,House of Commons,Scottish National Party,1
+2024-05-14,#FeliciaDrummond,F,House of Commons,Conservative,3
+2024-05-14,#MichaelWood,M,House of Commons,Conservative,1
+2024-05-14,#ThomasTugendhat,M,House of Commons,Conservative,1
+2024-05-14,#PatrickGrady,M,House of Commons,Scottish National Party,1
+2024-05-14,#FabianHamilton,M,House of Commons,Labour,3
+2024-05-14,#AndrewSlaughter,M,House of Commons,Labour,1
+2024-05-14,#CarolynHarris,F,House of Commons,Labour,2
+2024-05-14,#TobiasEllwood,M,House of Commons,Conservative,5
+2024-05-14,#EdwardArgar,M,House of Commons,Conservative,1
+2024-05-14,#KeithVaz,M,House of Commons,Labour,1
+2024-05-14,#DianaJohnson,F,House of Commons,Labour,1
+2024-05-14,#StewartWood,M,House of Lords,Labour,2
+2024-05-14,#FrederickCurzon,M,House of Commons,Conservative,7
+2024-05-14,#RaymondJolliffe,M,House of Commons,Crossbench,1
+2024-05-14,#GlenysKinnock,F,House of Lords,Labour,1
+2024-05-14,#ThomasKing,M,House of Commons,Conservative,1
+2024-05-14,#JudithJolly,F,House of Lords,Liberal Democrat,1
+2024-05-14,#JamesTouhig,M,House of Commons,Labour,1
+2024-05-14,#KeithVaz,M,House of Commons,Labour,4
+2024-05-14,#TobiasEllwood,M,House of Commons,Conservative,3
+2024-05-14,#StephenDoughty,M,House of Commons,Labour,2
+2024-05-14,#TasminaAhmedSheikh,F,House of Commons,Scottish National Party,3
+2024-05-14,#PhilipDunne,M,House of Commons,Conservative,25
+2024-05-14,#AlanDuncan,M,House of Commons,Conservative,2
+2024-05-14,#EmilyThornberry,F,House of Commons,Labour,1
+2024-05-14,#ChrisWhite,M,House of Commons,Conservative,1
+2024-05-14,#KirstenOswald,F,House of Commons,Scottish National Party,1
+2024-05-14,#KevinFoster,M,House of Commons,Conservative,1
+2024-05-14,#ValerieVaz,F,House of Commons,Labour,1
+2024-05-14,#ThomasBrake,M,House of Commons,Liberal Democrat,1
+2024-05-14,#KevanJones,M,House of Commons,Labour,1
+2024-05-14,#RichardShannon,M,House of Commons,Democratic Unionist Party,1
+2024-05-14,#OliverHeald,M,House of Commons,Conservative,1
+2024-05-14,#AlisonMcGovern,F,House of Commons,Labour,1
+2024-05-14,#JeremyLefroy,M,House of Commons,Conservative,1
+2024-05-14,#AlisonThewliss,F,House of Commons,Scottish National Party,1
+2024-05-14,#TaniaMathias,F,House of Commons,Conservative,3
+2024-05-14,#JohnBercow,M,House of Commons,Conservative,2
+2024-05-14,#MartinDochertyHughes,M,House of Commons,Scottish National Party,1
+2024-05-14,#JohnDurkan,M,House of Commons,Social Democratic & Labour Party,1
+2024-05-14,#PatrickGrady,M,House of Commons,Scottish National Party,1
+2024-05-14,#PeterGrant,M,House of Commons,Scottish National Party,1
+2024-05-14,#JeffreySmith,M,House of Commons,Labour,1
+2024-05-14,#LisaCameron,F,House of Commons,Scottish National Party,1
+2024-05-14,#HilaryBenn,M,House of Commons,Labour,2
+2024-05-14,#TobiasEllwood,M,House of Commons,Conservative,34
+2024-05-14,#CrispinBlunt,M,House of Commons,Conservative,1
+2024-05-14,#EmilyThornberry,F,House of Commons,Labour,2
+2024-05-14,#RobertStewart,M,House of Commons,Conservative,1
+2024-05-14,#TasminaAhmedSheikh,F,House of Commons,Scottish National Party,1
+2024-05-14,#CherylGillan,F,House of Commons,Conservative,1
+2024-05-14,#KeithVaz,M,House of Commons,Labour,1
+2024-05-14,#FeliciaDrummond,F,House of Commons,Conservative,1
+2024-05-14,#GillianFurniss,F,House of Commons,Labour,1
+2024-05-14,#NigelHuddleston,M,House of Commons,Conservative,1
+2024-05-14,#LucianaGoldsmithBerger,F,House of Commons,Labour,1
+2024-05-14,#SeemaKennedy,F,House of Commons,Conservative,1
+2024-05-14,#MargaretFerrier,F,House of Commons,Scottish National Party,1
+2024-05-14,#MarkPritchard,M,House of Commons,Conservative,1
+2024-05-14,#KevanJones,M,House of Commons,Labour,1
+2024-05-14,#ThomasTugendhat,M,House of Commons,Conservative,1
+2024-05-14,#ThomasBrake,M,House of Commons,Liberal Democrat,1
+2024-05-14,#EdwardLeigh,M,House of Commons,Conservative,1
+2024-05-14,#StephenDoughty,M,House of Commons,Labour,1
+2024-05-14,#KevinFoster,M,House of Commons,Conservative,1
+2024-05-14,#AlisonThewliss,F,House of Commons,Scottish National Party,2
+2024-05-14,#JohnBercow,M,House of Commons,Conservative,1
+2024-05-14,#MichaelWood,M,House of Commons,Conservative,1
+2024-05-14,#ThangamDebbonaire,F,House of Commons,Labour,1
+2024-05-14,#PhilipHollobone,M,House of Commons,Conservative,1
+2024-05-14,#AndrewGwynne,M,House of Commons,Labour,1
+2024-05-14,#NigelEvans,M,House of Commons,Conservative,1
+2024-05-14,#DouglasChapman,M,House of Commons,Scottish National Party,1
+2024-05-14,#NicklausThomasSymonds,M,House of Commons,Labour,1
+2024-05-14,#BrendanOHara,M,House of Commons,Scottish National Party,1
+2024-05-14,#DianaJohnson,F,House of Commons,Labour,1
+2024-05-14,#PatrickGrady,M,House of Commons,Scottish National Party,1
+2024-05-14,#JoyceAnelay,F,House of Lords,Conservative,6
+2024-05-14,#RaymondCollins,M,House of Lords,Labour,1
+2024-05-14,#WilliamWallace,M,House of Lords,Liberal Democrat,1
+2024-05-14,#DavidHowell,M,House of Commons,Conservative,1
+2024-05-14,#PeterHain,M,House of Commons,Labour,1
+2024-05-14,#DavidLea,M,House of Lords,Labour,1
+2024-05-14,#DavidAlton,M,House of Commons,Liberal,2
+2024-05-14,#JoyceAnelay,F,House of Lords,Conservative,5
+2024-05-14,#DaleCampbellSavours,M,House of Commons,Labour,1
+2024-05-14,#WilliamWallace,M,House of Lords,Liberal Democrat,1
+2024-05-14,#IndarjitSingh,M,House of Lords,Crossbench,1
+2024-05-14,#KellyTolhurst,F,House of Commons,Conservative,2
+2024-05-14,#TobiasEllwood,M,House of Commons,Conservative,5
+2024-05-14,#JohnBercow,M,House of Commons,Conservative,3
+2024-05-14,#CatherineMcKinnell,F,House of Commons,Labour,2
+2024-05-14,#EmilyThornberry,F,House of Commons,Labour,3
+2024-05-14,#KeithVaz,M,House of Commons,Labour,19
+2024-05-14,#KirstenOswald,F,House of Commons,Scottish National Party,1
+2024-05-14,#RosenaAllinKhan,F,House of Commons,Labour,1
+2024-05-14,#EdwardArgar,M,House of Commons,Conservative,1
+2024-05-14,#StephenDoughty,M,House of Commons,Labour,2
+2024-05-14,#DouglasChapman,M,House of Commons,Scottish National Party,1
+2024-05-14,#PhilippaWhitford,F,House of Commons,Scottish National Party,1
+2024-05-14,#ChrisWhite,M,House of Commons,Conservative,4
+2024-05-14,#LindsayHoyle,M,House of Commons,Labour,4
+2024-05-14,#FeliciaDrummond,F,House of Commons,Conservative,1
+2024-05-14,#MargaretFerrier,F,House of Commons,Scottish National Party,1
+2024-05-14,#MartinDochertyHughes,M,House of Commons,Scottish National Party,1
+2024-05-14,#KevinFoster,M,House of Commons,Conservative,1
+2024-05-14,#AlisonThewliss,F,House of Commons,Scottish National Party,1
+2024-05-14,#RoderickStewart,M,House of Commons,Conservative,4
+2024-05-14,#LindsayHoyle,M,House of Commons,Labour,9
+2024-05-14,#EmilyThornberry,F,House of Commons,Labour,22
+2024-05-14,#KeithVaz,M,House of Commons,Labour,7
+2024-05-14,#MatthewPerkins,M,House of Commons,Labour,3
+2024-05-14,#KevanJones,M,House of Commons,Labour,15
+2024-05-14,#JohnWoodcock,M,House of Commons,Labour,4
+2024-05-14,#CrispinBlunt,M,House of Commons,Conservative,7
+2024-05-14,#BrendanOHara,M,House of Commons,Scottish National Party,1
+2024-05-14,#StephenDoughty,M,House of Commons,Labour,4
+2024-05-14,#StephenTwigg,M,House of Commons,Labour,7
+2024-05-14,#AlexanderSalmond,M,House of Commons,Scottish National Party,2
+2024-05-14,#JamesHowarth,M,House of Commons,Conservative,3
+2024-05-14,#JulianBrazier,M,House of Commons,Conservative,1
+2024-05-14,#AlexanderJohnson,M,House of Commons,Conservative,12
+2024-05-14,#FeliciaDrummond,F,House of Commons,Conservative,1
+2024-05-14,#GeorgeKerevan,M,House of Commons,Scottish National Party,3
+2024-05-14,#SueHayman,F,House of Commons,Labour,1
+2024-05-14,#TasminaAhmedSheikh,F,House of Commons,Scottish National Party,19
+2024-05-14,#RobertStewart,M,House of Commons,Conservative,1
+2024-05-14,#ThomasTugendhat,M,House of Commons,Conservative,4
+2024-05-14,#DanielKawczynski,M,House of Commons,Conservative,2
+2024-05-14,#WendyMorton,F,House of Commons,Conservative,4
+2024-05-14,#TaniaMathias,F,House of Commons,Conservative,1
+2024-05-14,#KirstenOswald,F,House of Commons,Scottish National Party,1
+2024-05-14,#MarkHendrick,M,House of Commons,Labour,3
+2024-05-14,#AlistairBurt,M,House of Commons,Conservative,2
+2024-05-14,#AlisonThewliss,F,House of Commons,Scottish National Party,1
+2024-05-14,#NadhimZahawi,M,House of Commons,Conservative,1
+2024-05-14,#ChristianMatheson,M,House of Commons,Labour,1
+2024-05-14,#JohnBercow,M,House of Commons,Conservative,2
+2024-05-14,#DouglasChapman,M,House of Commons,Scottish National Party,1
+2024-05-14,#MarkMenzies,M,House of Commons,Conservative,1
+2024-05-14,#ThomasBrake,M,House of Commons,Liberal Democrat,1
+2024-05-14,#SeemaKennedy,F,House of Commons,Conservative,1
+2024-05-14,#MargaretFerrier,F,House of Commons,Scottish National Party,2
+2024-05-14,#LisaCameron,F,House of Commons,Scottish National Party,2
+2024-05-14,#KwasiKwarteng,M,House of Commons,Conservative,2
+2024-05-14,#NusratUlGhani,F,House of Commons,Conservative,1
+2024-05-14,#RichardShannon,M,House of Commons,Democratic Unionist Party,1
+2024-05-14,#KevinFoster,M,House of Commons,Conservative,4
+2024-05-14,#PeterGrant,M,House of Commons,Scottish National Party,1
+2024-05-14,#ChrisWhite,M,House of Commons,Conservative,3
+2024-05-14,#NataschaEngel,F,House of Commons,Labour,1
+2024-05-14,#RobertJenrick,M,House of Commons,Conservative,1
+2024-05-14,#KateOsamor,F,House of Commons,Labour,1
+2024-05-14,#TobiasEllwood,M,House of Commons,Conservative,2
+2024-05-14,#NicholasBrown,M,House of Commons,Labour,1
+2024-05-14,#PhilippaWhitford,F,House of Commons,Scottish National Party,2
+2024-05-14,#HarriettBaldwin,F,House of Commons,Conservative,4
+2024-05-14,#KevinFoster,M,House of Commons,Conservative,1
+2024-05-14,#KeithVaz,M,House of Commons,Labour,1
+2024-05-14,#KeithVaz,M,House of Commons,Labour,2
+2024-05-14,#TobiasEllwood,M,House of Commons,Conservative,20
+2024-05-14,#JohnBercow,M,House of Commons,Conservative,5
+2024-05-14,#CrispinBlunt,M,House of Commons,Conservative,1
+2024-05-14,#EmilyThornberry,F,House of Commons,Labour,3
+2024-05-14,#DesmondSwayne,M,House of Commons,Conservative,1
+2024-05-14,#PatrickGrady,M,House of Commons,Scottish National Party,1
+2024-05-14,#RobertStewart,M,House of Commons,Conservative,1
+2024-05-14,#StephenTwigg,M,House of Commons,Labour,1
+2024-05-14,#FeliciaDrummond,F,House of Commons,Conservative,1
+2024-05-14,#ThomasBrake,M,House of Commons,Liberal Democrat,3
+2024-05-14,#MiriamDavies,F,House of Commons,Conservative,1
+2024-05-14,#GrahamJones,M,House of Commons,Labour,1
+2024-05-14,#MatthewOfford,M,House of Commons,Conservative,1
+2024-05-14,#ChristopherBryant,M,House of Commons,Labour,1
+2024-05-14,#CraigWhittaker,M,House of Commons,Conservative,1
+2024-05-14,#RosenaAllinKhan,F,House of Commons,Labour,1
+2024-05-14,#PeterBone,M,House of Commons,Conservative,1
+2024-05-14,#SeemaMalhotraSaluja,F,House of Commons,Labour,1
+2024-05-14,#MichaelFallon,M,House of Commons,Conservative,28
+2024-05-14,#WayneDavid,M,House of Commons,Labour,1
+2024-05-14,#JulianLewis,M,House of Commons,Conservative,1
+2024-05-14,#BrendanOHara,M,House of Commons,Scottish National Party,1
+2024-05-14,#DesmondSwayne,M,House of Commons,Conservative,1
+2024-05-14,#KeithVaz,M,House of Commons,Labour,1
+2024-05-14,#WilliamWiggin,M,House of Commons,Conservative,1
+2024-05-14,#AnnClwyd,F,House of Commons,Labour,1
+2024-05-14,#CraigWhittaker,M,House of Commons,Conservative,1
+2024-05-14,#ThomasBrake,M,House of Commons,Liberal Democrat,2
+2024-05-14,#SeemaKennedy,F,House of Commons,Conservative,1
+2024-05-14,#StephenDoughty,M,House of Commons,Labour,1
+2024-05-14,#AndrewMurrison,M,House of Commons,Conservative,1
+2024-05-14,#MargaretFerrier,F,House of Commons,Scottish National Party,1
+2024-05-14,#ThomasTugendhat,M,House of Commons,Conservative,1
+2024-05-14,#ChristopherBryant,M,House of Commons,Labour,1
+2024-05-14,#PhilipHollobone,M,House of Commons,Conservative,1
+2024-05-14,#RichardShannon,M,House of Commons,Democratic Unionist Party,1
+2024-05-14,#OliverColvile,M,House of Commons,Conservative,1
+2024-05-14,#IanMurray,M,House of Commons,Labour,1
+2024-05-14,#WendyMorton,F,House of Commons,Conservative,1
+2024-05-14,#NicholasSmith,M,House of Commons,Labour,1
+2024-05-14,#ChrisWhite,M,House of Commons,Conservative,1
+2024-05-14,#DianaJohnson,F,House of Commons,Labour,1
+2024-05-14,#HywelWilliams,M,House of Commons,Plaid Cymru,1
+2024-05-14,#RobertJenrick,M,House of Commons,Conservative,1
+2024-05-14,#TaniaMathias,F,House of Commons,Conservative,2
+2024-05-14,#EleanorLaing,F,House of Commons,Conservative,1
+2024-05-14,#LucianaGoldsmithBerger,F,House of Commons,Labour,2
+2024-05-14,#TobiasEllwood,M,House of Commons,Conservative,18
+2024-05-14,#GeoffreyCliftonBrown,M,House of Commons,Conservative,1
+2024-05-14,#KeithVaz,M,House of Commons,Labour,1
+2024-05-14,#DanielKawczynski,M,House of Commons,Conservative,1
+2024-05-14,#StephenDoughty,M,House of Commons,Labour,1
+2024-05-14,#TasminaAhmedSheikh,F,House of Commons,Scottish National Party,1
+2024-05-14,#ChristopherElmore,M,House of Commons,Labour,1
+2024-05-14,#EmilyThornberry,F,House of Commons,Labour,2
+2024-05-14,#JohnBercow,M,House of Commons,Conservative,3
+2024-05-14,#CarolynHarris,F,House of Commons,Labour,2
+2024-05-14,#NicholasSoames,M,House of Commons,Conservative,1
+2024-05-14,#BrendanOHara,M,House of Commons,Scottish National Party,1
+2024-05-14,#FeliciaDrummond,F,House of Commons,Conservative,1
+2024-05-14,#JohnSpellar,M,House of Commons,Labour,1
+2024-05-14,#StephenTwigg,M,House of Commons,Labour,23
+2024-05-14,#KeithVaz,M,House of Commons,Labour,8
+2024-05-14,#RobertStewart,M,House of Commons,Conservative,8
+2024-05-14,#StephenDoughty,M,House of Commons,Labour,9
+2024-05-14,#AnnClwyd,F,House of Commons,Labour,1
+2024-05-14,#MichaelGapes,M,House of Commons,Labour,2
+2024-05-14,#FionaBruce,F,House of Commons,Conservative,1
+2024-05-14,#GrahamJones,M,House of Commons,Labour,20
+2024-05-14,#TobiasEllwood,M,House of Commons,Conservative,20
+2024-05-14,#JohnSpellar,M,House of Commons,Labour,1
+2024-05-14,#SeemaKennedy,F,House of Commons,Conservative,7
+2024-05-14,#ThomasBrake,M,House of Commons,Liberal Democrat,6
+2024-05-14,#EleanorLaing,F,House of Commons,Conservative,2
+2024-05-14,#AlistairBurt,M,House of Commons,Conservative,5
+2024-05-14,#GeorgeKerevan,M,House of Commons,Scottish National Party,7
+2024-05-14,#DesmondSwayne,M,House of Commons,Conservative,1
+2024-05-14,#EmilyThornberry,F,House of Commons,Labour,15
+2024-05-14,#ChrisWhite,M,House of Commons,Conservative,7
+2024-05-14,#PaulMonaghan,M,House of Commons,Scottish National Party,2
+2024-05-14,#MadeleineMoon,F,House of Commons,Labour,5
+2024-05-14,#KirstenOswald,F,House of Commons,Scottish National Party,1
+2024-05-14,#FeliciaDrummond,F,House of Commons,Conservative,2
+2024-05-14,#WendyMorton,F,House of Commons,Conservative,3
+2024-05-14,#EdwardArgar,M,House of Commons,Conservative,3
+2024-05-14,#MargaretFerrier,F,House of Commons,Scottish National Party,1
+2024-05-14,#KevinFoster,M,House of Commons,Conservative,1
+2024-05-14,#TasminaAhmedSheikh,F,House of Commons,Scottish National Party,4
+2024-05-14,#PatrickGrady,M,House of Commons,Scottish National Party,1
+2024-05-14,#NataschaEngel,F,House of Commons,Labour,1
+2024-05-14,#NicholasSmith,M,House of Commons,Labour,1
+2024-05-14,#LindsayHoyle,M,House of Commons,Labour,3
+2024-05-14,#TasminaAhmedSheikh,F,House of Commons,Scottish National Party,2
+2024-05-14,#TobiasEllwood,M,House of Commons,Conservative,31
+2024-05-14,#JohnBercow,M,House of Commons,Conservative,3
+2024-05-14,#RobertStewart,M,House of Commons,Conservative,1
+2024-05-14,#EmilyThornberry,F,House of Commons,Labour,1
+2024-05-14,#MichaelGove,M,House of Commons,Conservative,1
+2024-05-14,#StephenTwigg,M,House of Commons,Labour,1
+2024-05-14,#DesmondSwayne,M,House of Commons,Conservative,1
+2024-05-14,#AlexanderSalmond,M,House of Commons,Scottish National Party,1
+2024-05-14,#FeliciaDrummond,F,House of Commons,Conservative,1
+2024-05-14,#JohnSpellar,M,House of Commons,Labour,1
+2024-05-14,#JeremyLefroy,M,House of Commons,Conservative,1
+2024-05-14,#ThomasBrake,M,House of Commons,Liberal Democrat,1
+2024-05-14,#ChristopherDavies,M,House of Commons,Conservative,1
+2024-05-14,#AnnClwyd,F,House of Commons,Labour,1
+2024-05-14,#NigelHuddleston,M,House of Commons,Conservative,1
+2024-05-14,#LizSavilleRoberts,F,House of Commons,Plaid Cymru,1
+2024-05-14,#PhilipHollobone,M,House of Commons,Conservative,1
+2024-05-14,#AlisonMcGovern,F,House of Commons,Labour,1
+2024-05-14,#RobertCourts,M,House of Commons,Conservative,1
+2024-05-14,#PatrickGrady,M,House of Commons,Scottish National Party,1
+2024-05-14,#ThomasPursglove,M,House of Commons,Conservative,1
+2024-05-14,#MichaelGapes,M,House of Commons,Labour,1
+2024-05-14,#PeterGrant,M,House of Commons,Scottish National Party,1
+2024-05-14,#StephenDoughty,M,House of Commons,Labour,1
+2024-05-14,#NicholasSmith,M,House of Commons,Labour,1
+2024-05-14,#MargaretFerrier,F,House of Commons,Scottish National Party,1
+2024-05-14,#DianaJohnson,F,House of Commons,Labour,1
+2024-05-14,#RichardShannon,M,House of Commons,Democratic Unionist Party,1
+2024-05-14,#GrahamJones,M,House of Commons,Labour,1
+2024-05-14,#NicklausThomasSymonds,M,House of Commons,Labour,1
+2024-05-14,#HannahBardell,F,House of Commons,Scottish National Party,2
+2024-05-14,#PeterGrant,M,House of Commons,Scottish National Party,2
+2024-05-14,#HarriettBaldwin,F,House of Commons,Conservative,6
+2024-05-14,#DanielZeichner,M,House of Commons,Labour,1
+2024-05-14,#MargaretFerrier,F,House of Commons,Scottish National Party,1
+2024-05-14,#FabianHamilton,M,House of Commons,Labour,1
+2024-05-14,#JohnBercow,M,House of Commons,Conservative,1
+2024-05-14,#KeithVaz,M,House of Commons,Labour,6
+2024-05-14,#StephenDoughty,M,House of Commons,Labour,3
+2024-05-14,#GeorgeKerevan,M,House of Commons,Scottish National Party,3
+2024-05-14,#JamesHowarth,M,House of Commons,Conservative,3
+2024-05-14,#EleanorLaing,F,House of Commons,Conservative,3
+2024-05-14,#AndrewMitchell,M,House of Commons,Conservative,7
+2024-05-14,#StephenTwigg,M,House of Commons,Labour,3
+2024-05-14,#JamesCunningham,M,House of Commons,Labour,1
+2024-05-14,#SeemaKennedy,F,House of Commons,Conservative,4
+2024-05-14,#GrahamJones,M,House of Commons,Labour,4
+2024-05-14,#AlisonThewliss,F,House of Commons,Scottish National Party,3
+2024-05-14,#BrendanOHara,M,House of Commons,Scottish National Party,1
+2024-05-14,#FeliciaDrummond,F,House of Commons,Conservative,2
+2024-05-14,#CliveLewis,M,House of Commons,Labour,2
+2024-05-14,#TobiasEllwood,M,House of Commons,Conservative,5
+2024-05-14,#ChristopherEvans,M,House of Commons,Labour,3
+2024-05-14,#GillianFurniss,F,House of Commons,Labour,1
+2024-05-14,#MargaretFerrier,F,House of Commons,Scottish National Party,1
+2024-05-14,#DouglasChapman,M,House of Commons,Scottish National Party,2
+2024-05-14,#EmilyThornberry,F,House of Commons,Labour,2
+2024-05-14,#StephenTwigg,M,House of Commons,Labour,2
+2024-05-14,#AlistairBurt,M,House of Commons,Conservative,15
+2024-05-14,#PaulineLatham,F,House of Commons,Conservative,1
+2024-05-14,#KateOsamor,F,House of Commons,Labour,1
+2024-05-14,#JulianLewis,M,House of Commons,Conservative,1
+2024-05-14,#StewartMcDonald,M,House of Commons,Scottish National Party,1
+2024-05-14,#CrispinBlunt,M,House of Commons,Conservative,1
+2024-05-14,#JohnWoodcock,M,House of Commons,Labour,1
+2024-05-14,#ThomasTugendhat,M,House of Commons,Conservative,1
+2024-05-14,#AnnClwyd,F,House of Commons,Labour,1
+2024-05-14,#MiriamDavies,F,House of Commons,Conservative,1
+2024-05-14,#JoanneSwinson,F,House of Commons,Liberal Democrat,2
+2024-05-14,#MichaelWood,M,House of Commons,Conservative,1
+2024-05-14,#RichardShannon,M,House of Commons,Democratic Unionist Party,1
+2024-05-14,#MichaelBates,M,House of Commons,Conservative,5
+2024-05-14,#RaymondCollins,M,House of Lords,Labour,1
+2024-05-14,#MenziesCampbell,M,House of Commons,Liberal,1
+2024-05-14,#HeleneHayman,F,House of Commons,Labour,1
+2024-05-14,#DavidAlton,M,House of Commons,Liberal,1
+2024-05-14,#AlistairBurt,M,House of Commons,Conservative,29
+2024-05-14,#FabianHamilton,M,House of Commons,Labour,1
+2024-05-14,#AndrewMitchell,M,House of Commons,Conservative,1
+2024-05-14,#AlisonThewliss,F,House of Commons,Scottish National Party,1
+2024-05-14,#DesmondSwayne,M,House of Commons,Conservative,1
+2024-05-14,#StephenTwigg,M,House of Commons,Labour,1
+2024-05-14,#JamesDuddridge,M,House of Commons,Conservative,1
+2024-05-14,#JoanneSwinson,F,House of Commons,Liberal Democrat,1
+2024-05-14,#JeremyLefroy,M,House of Commons,Conservative,1
+2024-05-14,#StephenDoughty,M,House of Commons,Labour,1
+2024-05-14,#NusratUlGhani,F,House of Commons,Conservative,1
+2024-05-14,#RichardBurden,M,House of Commons,Labour,1
+2024-05-14,#SimonHoare,M,House of Commons,Conservative,1
+2024-05-14,#DianaJohnson,F,House of Commons,Labour,1
+2024-05-14,#EdwardArgar,M,House of Commons,Conservative,1
+2024-05-14,#GillianFurniss,F,House of Commons,Labour,1
+2024-05-14,#RebeccaClarkPow,F,House of Commons,Conservative,1
+2024-05-14,#GrahamJones,M,House of Commons,Labour,1
+2024-05-14,#MichelleDonelan,F,House of Commons,Conservative,1
+2024-05-14,#DavidEdwards,M,House of Commons,Plaid Cymru,1
+2024-05-14,#RossThomson,M,House of Commons,Conservative,1
+2024-05-14,#AlexanderSobel,M,House of Commons,Labour,1
+2024-05-14,#RobertCourts,M,House of Commons,Conservative,1
+2024-05-14,#RobertStewart,M,House of Commons,Conservative,1
+2024-05-14,#JohnBercow,M,House of Commons,Conservative,2
+2024-05-14,#KevinFoster,M,House of Commons,Conservative,1
+2024-05-14,#WendyMorton,F,House of Commons,Conservative,1
+2024-05-14,#JohnHowell,M,House of Commons,Conservative,1
+2024-05-14,#HelenWhately,F,House of Commons,Conservative,1
+2024-05-14,#JeremyQuin,M,House of Commons,Conservative,1
+2024-05-14,#TariqAhmad,M,House of Lords,Conservative,11
+2024-05-14,#RaymondCollins,M,House of Lords,Labour,1
+2024-05-14,#LindsayGranshaw,F,House of Lords,Liberal Democrat,1
+2024-05-14,#MarkSchreiber,M,House of Lords,Conservative,1
+2024-05-14,#PeterHain,M,House of Commons,Labour,1
+2024-05-14,#NicholasBaines,M,House of Lords,Bishops,1
+2024-05-14,#DavidHannay,M,House of Lords,Crossbench,1
+2024-05-14,#KishwerFalkner,F,House of Lords,Liberal Democrat,1
+2024-05-14,#MaryGoudie,F,House of Lords,Labour,1
+2024-05-14,#HeleneHayman,F,House of Commons,Labour,1
+2024-05-14,#DavidLea,M,House of Lords,Labour,1
+2024-05-14,#DafyddElystanMorgan,M,House of Commons,Labour,1
+2024-05-14,#PhilippaWhitford,F,House of Commons,Scottish National Party,2
+2024-05-14,#AlistairBurt,M,House of Commons,Conservative,6
+2024-05-14,#JamesMorris,M,House of Commons,Conservative,1
+2024-05-14,#StephenTwigg,M,House of Commons,Labour,1
+2024-05-14,#ThomasTugendhat,M,House of Commons,Conservative,1
+2024-05-14,#FabianHamilton,M,House of Commons,Labour,1
+2024-05-14,#MartinDochertyHughes,M,House of Commons,Scottish National Party,2
+2024-05-14,#AlisonThewliss,F,House of Commons,Scottish National Party,2
+2024-05-14,#PenelopeMordaunt,F,House of Commons,Conservative,7
+2024-05-14,#KevinFoster,M,House of Commons,Conservative,1
+2024-05-14,#AndrewPercy,M,House of Commons,Conservative,1
+2024-05-14,#AnnClwyd,F,House of Commons,Labour,1
+2024-05-14,#RobertaBlackmanWoods,F,House of Commons,Labour,1
+2024-05-14,#AndrewMitchell,M,House of Commons,Conservative,1
+2024-05-14,#EleanorLaing,F,House of Commons,Conservative,3
+2024-05-14,#AndrewMitchell,M,House of Commons,Conservative,16
+2024-05-14,#HilaryBenn,M,House of Commons,Labour,4
+2024-05-14,#GrahamJones,M,House of Commons,Labour,8
+2024-05-14,#JohnSpellar,M,House of Commons,Labour,1
+2024-05-14,#RobertStewart,M,House of Commons,Conservative,2
+2024-05-14,#KeithVaz,M,House of Commons,Labour,5
+2024-05-14,#ThomasTugendhat,M,House of Commons,Conservative,3
+2024-05-14,#AlistairBurt,M,House of Commons,Conservative,18
+2024-05-14,#EmilyThornberry,F,House of Commons,Labour,6
+2024-05-14,#StephenTwigg,M,House of Commons,Labour,3
+2024-05-14,#AlisonThewliss,F,House of Commons,Scottish National Party,4
+2024-05-14,#MichaelGapes,M,House of Commons,Labour,1
+2024-05-14,#StephenDoughty,M,House of Commons,Labour,1
+2024-05-14,#JeremyLefroy,M,House of Commons,Conservative,2
+2024-05-14,#JamesCunningham,M,House of Commons,Labour,1
+2024-05-14,#RossThomson,M,House of Commons,Conservative,2
+2024-05-14,#CliveLewis,M,House of Commons,Labour,1
+2024-05-14,#LindsayHoyle,M,House of Commons,Labour,2
+2024-05-14,#RobertaBlackmanWoods,F,House of Commons,Labour,1
+2024-05-14,#StewartMcDonald,M,House of Commons,Scottish National Party,2
+2024-05-14,#RichardBurden,M,House of Commons,Labour,2
+2024-05-14,#AlistairBurt,M,House of Commons,Conservative,4
+2024-05-14,#StephenTwigg,M,House of Commons,Labour,1
+2024-05-14,#ChristopherLaw,M,House of Commons,Scottish National Party,1
+2024-05-14,#NicholasSmith,M,House of Commons,Labour,2
+2024-05-14,#AlistairBurt,M,House of Commons,Conservative,5
+2024-05-14,#KevinFoster,M,House of Commons,Conservative,1
+2024-05-14,#ChristopherLaw,M,House of Commons,Scottish National Party,1
+2024-05-14,#DanielCarden,M,House of Commons,Labour,1
+2024-05-14,#StephenTwigg,M,House of Commons,Labour,2
+2024-05-14,#HarriettBaldwin,F,House of Commons,Conservative,31
+2024-05-14,#DesmondSwayne,M,House of Commons,Conservative,1
+2024-05-14,#KateOsamor,F,House of Commons,Labour,1
+2024-05-14,#RobertStewart,M,House of Commons,Conservative,1
+2024-05-14,#ChristopherLaw,M,House of Commons,Scottish National Party,1
+2024-05-14,#PaulineLatham,F,House of Commons,Conservative,1
+2024-05-14,#ThomasBrake,M,House of Commons,Liberal Democrat,1
+2024-05-14,#RobertBlackman,M,House of Commons,Conservative,1
+2024-05-14,#AnnClwyd,F,House of Commons,Labour,1
+2024-05-14,#HenrySmith,M,House of Commons,Conservative,1
+2024-05-14,#AnnaTurley,F,House of Commons,Labour,1
+2024-05-14,#EdwardArgar,M,House of Commons,Conservative,1
+2024-05-14,#CarolineLucas,F,House of Commons,Green Party,1
+2024-05-14,#RebeccaClarkPow,F,House of Commons,Conservative,1
+2024-05-14,#RichardBurden,M,House of Commons,Labour,1
+2024-05-14,#KevinFoster,M,House of Commons,Conservative,1
+2024-05-14,#AlisonMcGovern,F,House of Commons,Labour,1
+2024-05-14,#PhilipHollobone,M,House of Commons,Conservative,1
+2024-05-14,#LucianaGoldsmithBerger,F,House of Commons,Labour,1
+2024-05-14,#AlexanderCarmichael,M,House of Commons,Liberal Democrat,1
+2024-05-14,#NicholasSmith,M,House of Commons,Labour,1
+2024-05-14,#GrahamJones,M,House of Commons,Labour,1
+2024-05-14,#JoannaCherry,F,House of Commons,Scottish National Party,1
+2024-05-14,#GillianFurniss,F,House of Commons,Labour,1
+2024-05-14,#WesleyStreeting,M,House of Commons,Labour,1
+2024-05-14,#DavidEdwards,M,House of Commons,Plaid Cymru,1
+2024-05-14,#JohnWoodcock,M,House of Commons,Labour,1
+2024-05-14,#PeterGrant,M,House of Commons,Scottish National Party,1
+2024-05-14,#LloydRussellMoyle,M,House of Commons,Labour,1
+2024-05-14,#DavidLinden,M,House of Commons,Scottish National Party,2
+2024-05-14,#JohnBercow,M,House of Commons,Conservative,1
+2024-05-14,#MichaelBates,M,House of Commons,Conservative,3
+2024-05-14,#RaymondCollins,M,House of Lords,Labour,1
+2024-05-14,#WilliamWallace,M,House of Lords,Liberal Democrat,1
+2024-05-14,#NazirAhmed,M,House of Lords,Labour,2
+2024-05-14,#TariqAhmad,M,House of Lords,Conservative,7
+2024-05-14,#JohnGeoffrey,M,House of Lords,Bishops,1
+2024-05-14,#LindsayGranshaw,F,House of Lords,Liberal Democrat,1
+2024-05-14,#HalehAfshar,F,House of Lords,Crossbench,1
+2024-05-14,#RaymondCollins,M,House of Lords,Labour,1
+2024-05-14,#JohnAnderson,M,House of Commons,Crossbench,1
+2024-05-14,#JohnBercow,M,House of Commons,Conservative,4
+2024-05-14,#KeithVaz,M,House of Commons,Labour,2
+2024-05-14,#AlistairBurt,M,House of Commons,Conservative,28
+2024-05-14,#JohnRedwood,M,House of Commons,Conservative,1
+2024-05-14,#FabianHamilton,M,House of Commons,Labour,1
+2024-05-14,#ThomasTugendhat,M,House of Commons,Conservative,1
+2024-05-14,#ChristopherLaw,M,House of Commons,Scottish National Party,1
+2024-05-14,#CrispinBlunt,M,House of Commons,Conservative,1
+2024-05-14,#AlexanderCarmichael,M,House of Commons,Liberal Democrat,1
+2024-05-14,#HenrySmith,M,House of Commons,Conservative,1
+2024-05-14,#StephenTwigg,M,House of Commons,Labour,1
+2024-05-14,#JohnHowell,M,House of Commons,Conservative,1
+2024-05-14,#HilaryBenn,M,House of Commons,Labour,1
+2024-05-14,#PhilipHollobone,M,House of Commons,Conservative,1
+2024-05-14,#GrahamJones,M,House of Commons,Labour,1
+2024-05-14,#ThomasBrake,M,House of Commons,Liberal Democrat,1
+2024-05-14,#KevanJones,M,House of Commons,Labour,1
+2024-05-14,#DianaJohnson,F,House of Commons,Labour,1
+2024-05-14,#RichardBurden,M,House of Commons,Labour,1
+2024-05-14,#LloydRussellMoyle,M,House of Commons,Labour,1
+2024-05-14,#JohnWoodcock,M,House of Commons,Labour,1
+2024-05-14,#MichaelGapes,M,House of Commons,Labour,1
+2024-05-14,#StephenDoughty,M,House of Commons,Labour,1
+2024-05-14,#GillianFurniss,F,House of Commons,Labour,1
+2024-05-14,#JoannaCherry,F,House of Commons,Scottish National Party,1
+2024-05-14,#AndrewSlaughter,M,House of Commons,Labour,1
+2024-05-14,#NicholasSmith,M,House of Commons,Labour,1
+2024-05-14,#RichardShannon,M,House of Commons,Democratic Unionist Party,1
+2024-05-14,#TariqAhmad,M,House of Lords,Conservative,5
+2024-05-14,#RaymondCollins,M,House of Lords,Labour,1
+2024-05-14,#BarbaraJanke,F,House of Lords,Liberal Democrat,1
+2024-05-14,#DesmondBrowne,M,House of Commons,Labour,1
+2024-05-14,#JohnAnderson,M,House of Commons,Crossbench,1
+2024-05-14,#PeterGrant,M,House of Commons,Scottish National Party,2
+2024-05-14,#DouglasChapman,M,House of Commons,Scottish National Party,2
+2024-05-14,#GillianFurniss,F,House of Commons,Labour,2
+2024-05-14,#RonnieCampbell,M,House of Commons,Labour,2
+2024-05-14,#AlistairBurt,M,House of Commons,Conservative,7
+2024-05-14,#DanielKawczynski,M,House of Commons,Conservative,1
+2024-05-14,#FabianHamilton,M,House of Commons,Labour,1
+2024-05-14,#JohnBercow,M,House of Commons,Conservative,3
+2024-05-14,#StephenTwigg,M,House of Commons,Labour,1
+2024-05-14,#StephenTwigg,M,House of Commons,Labour,24
+2024-05-14,#WesleyStreeting,M,House of Commons,Labour,1
+2024-05-14,#PhilipHollobone,M,House of Commons,Conservative,1
+2024-05-14,#StephenDoughty,M,House of Commons,Labour,3
+2024-05-14,#CrispinBlunt,M,House of Commons,Conservative,9
+2024-05-14,#LloydRussellMoyle,M,House of Commons,Labour,2
+2024-05-14,#ChristopherLaw,M,House of Commons,Scottish National Party,3
+2024-05-14,#AndrewMitchell,M,House of Commons,Conservative,12
+2024-05-14,#JohnSpellar,M,House of Commons,Labour,6
+2024-05-14,#HilaryBenn,M,House of Commons,Labour,2
+2024-05-14,#VictoriaPrentis,F,House of Commons,Conservative,4
+2024-05-14,#LeoDocherty,M,House of Commons,Conservative,6
+2024-05-14,#JohnHowell,M,House of Commons,Conservative,4
+2024-05-14,#KeithVaz,M,House of Commons,Labour,4
+2024-05-14,#ThomasTugendhat,M,House of Commons,Conservative,6
+2024-05-14,#AnnaTurley,F,House of Commons,Labour,1
+2024-05-14,#EmilyThornberry,F,House of Commons,Labour,7
+2024-05-14,#GrahamJones,M,House of Commons,Labour,12
+2024-05-14,#MarkFrancois,M,House of Commons,Conservative,1
+2024-05-14,#JohnBercow,M,House of Commons,Conservative,1
+2024-05-14,#ChristineJardine,F,House of Commons,Liberal Democrat,2
+2024-05-14,#AlisonThewliss,F,House of Commons,Scottish National Party,3
+2024-05-14,#AlistairBurt,M,House of Commons,Conservative,6
+2024-05-14,#LynBrown,F,House of Commons,Labour,2
+2024-05-14,#AlistairBurt,M,House of Commons,Conservative,8
+2024-05-14,#StephenKerr,M,House of Commons,Conservative,1
+2024-05-14,#StephenTwigg,M,House of Commons,Labour,1
+2024-05-14,#KevinFoster,M,House of Commons,Conservative,1
+2024-05-14,#KeithVaz,M,House of Commons,Labour,1
+2024-05-14,#AlisonThewliss,F,House of Commons,Scottish National Party,1
+2024-05-14,#PreetGill,F,House of Commons,Labour,1
+2024-05-14,#GavinNewlands,M,House of Commons,Scottish National Party,2
+2024-05-14,#AlistairBurt,M,House of Commons,Conservative,3
+2024-05-14,#AndrewMitchell,M,House of Commons,Conservative,1
+2024-05-14,#JohnMontagu,M,House of Commons,Crossbench,2
+2024-05-14,#MichaelBates,M,House of Commons,Conservative,6
+2024-05-14,#AndrewRobathan,M,House of Commons,Conservative,1
+2024-05-14,#RaymondCollins,M,House of Lords,Labour,1
+2024-05-14,#ShaistaSheehan,F,House of Lords,Liberal Democrat,1
+2024-05-14,#AlanSmith,M,House of Lords,Bishops,1
+2024-05-14,#RichardLuce,M,House of Commons,Conservative,2
+2024-05-14,#ArminkaHelic,F,House of Lords,Conservative,1
+2024-05-14,#TessaBlackstone,F,House of Lords,Labour,1
+2024-05-14,#JohnMontagu,M,House of Commons,Crossbench,1
+2024-05-14,#DavidHannay,M,House of Lords,Crossbench,1
+2024-05-14,#RaymondCollins,M,House of Lords,Labour,1
+2024-05-14,#TariqAhmad,M,House of Lords,Conservative,1
+2024-05-14,#EmilyThornberry,F,House of Commons,Labour,5
+2024-05-14,#JeremyHunt,M,House of Commons,Conservative,29
+2024-05-14,#ThomasTugendhat,M,House of Commons,Conservative,1
+2024-05-14,#StephenGethins,M,House of Commons,Scottish National Party,1
+2024-05-14,#AndrewMitchell,M,House of Commons,Conservative,1
+2024-05-14,#HilaryBenn,M,House of Commons,Labour,1
+2024-05-14,#PritiPatel,F,House of Commons,Conservative,1
+2024-05-14,#AnnClwyd,F,House of Commons,Labour,1
+2024-05-14,#DesmondSwayne,M,House of Commons,Conservative,1
+2024-05-14,#KeithVaz,M,House of Commons,Labour,1
+2024-05-14,#LeoDocherty,M,House of Commons,Conservative,1
+2024-05-14,#ChristineJardine,F,House of Commons,Liberal Democrat,1
+2024-05-14,#MarkPritchard,M,House of Commons,Conservative,1
+2024-05-14,#StephenDoughty,M,House of Commons,Labour,1
+2024-05-14,#PaulMasterton,M,House of Commons,Conservative,1
+2024-05-14,#RichardBurden,M,House of Commons,Labour,1
+2024-05-14,#RobertBlackman,M,House of Commons,Conservative,1
+2024-05-14,#AlisonThewliss,F,House of Commons,Scottish National Party,1
+2024-05-14,#RossThomson,M,House of Commons,Conservative,1
+2024-05-14,#IanMurray,M,House of Commons,Labour,1
+2024-05-14,#GrahamJones,M,House of Commons,Labour,1
+2024-05-14,#MatthewPerkins,M,House of Commons,Labour,1
+2024-05-14,#HywelWilliams,M,House of Commons,Plaid Cymru,1
+2024-05-14,#KevinBrennan,M,House of Commons,Labour,1
+2024-05-14,#PaulSweeney,M,House of Commons,Labour,1
+2024-05-14,#RichardShannon,M,House of Commons,Democratic Unionist Party,1
+2024-05-14,#AnnabelGoldie,F,House of Lords,Conservative,5
+2024-05-14,#RaymondCollins,M,House of Lords,Labour,1
+2024-05-14,#LindsayGranshaw,F,House of Lords,Liberal Democrat,1
+2024-05-14,#PatrickCormack,M,House of Commons,Conservative,1
+2024-05-14,#MenziesCampbell,M,House of Commons,Liberal,1
+2024-05-14,#LeoDocherty,M,House of Commons,Conservative,2
+2024-05-14,#HannahBardell,F,House of Commons,Scottish National Party,2
+2024-05-14,#GeoffreyCliftonBrown,M,House of Commons,Conservative,2
+2024-05-14,#RossThomson,M,House of Commons,Conservative,2
+2024-05-14,#GavinNewlands,M,House of Commons,Scottish National Party,2
+2024-05-14,#JeremyHunt,M,House of Commons,Conservative,13
+2024-05-14,#PaulineLatham,F,House of Commons,Conservative,1
+2024-05-14,#MatthewWarman,M,House of Commons,Conservative,1
+2024-05-14,#StephenTwigg,M,House of Commons,Labour,1
+2024-05-14,#KeithVaz,M,House of Commons,Labour,1
+2024-05-14,#JohnCable,M,House of Commons,Liberal Democrat,1
+2024-05-14,#EmilyThornberry,F,House of Commons,Labour,2
+2024-05-14,#JeremyHunt,M,House of Commons,Conservative,27
+2024-05-14,#EmilyThornberry,F,House of Commons,Labour,1
+2024-05-14,#AndrewMitchell,M,House of Commons,Conservative,1
+2024-05-14,#StephenGethins,M,House of Commons,Scottish National Party,1
+2024-05-14,#ThomasTugendhat,M,House of Commons,Conservative,1
+2024-05-14,#StephenTwigg,M,House of Commons,Labour,1
+2024-05-14,#RobertStewart,M,House of Commons,Conservative,1
+2024-05-14,#HilaryBenn,M,House of Commons,Labour,1
+2024-05-14,#RichardGraham,M,House of Commons,Conservative,1
+2024-05-14,#KevinBrennan,M,House of Commons,Labour,1
+2024-05-14,#RobertBlackman,M,House of Commons,Conservative,1
+2024-05-14,#WeraHobhouse,F,House of Commons,Liberal Democrat,1
+2024-05-14,#KevinFoster,M,House of Commons,Conservative,1
+2024-05-14,#JohnWoodcock,M,House of Commons,Labour,1
+2024-05-14,#WilliamGrant,M,House of Commons,Conservative,1
+2024-05-14,#AlisonThewliss,F,House of Commons,Scottish National Party,1
+2024-05-14,#ChristopherLaw,M,House of Commons,Scottish National Party,1
+2024-05-14,#LaylaMoran,F,House of Commons,Liberal Democrat,1
+2024-05-14,#NicklausThomasSymonds,M,House of Commons,Labour,1
+2024-05-14,#MichaelGapes,M,House of Commons,Labour,1
+2024-05-14,#PaulSweeney,M,House of Commons,Labour,1
+2024-05-14,#ThangamDebbonaire,F,House of Commons,Labour,1
+2024-05-14,#IanMurray,M,House of Commons,Labour,1
+2024-05-14,#GrahamJones,M,House of Commons,Labour,1
+2024-05-14,#LloydRussellMoyle,M,House of Commons,Labour,1
+2024-05-14,#LisaCameron,F,House of Commons,Scottish National Party,1
+2024-05-14,#RichardShannon,M,House of Commons,Democratic Unionist Party,1
+2024-05-14,#TariqAhmad,M,House of Lords,Conservative,12
+2024-05-14,#RaymondCollins,M,House of Lords,Labour,1
+2024-05-14,#LindsayGranshaw,F,House of Lords,Liberal Democrat,1
+2024-05-14,#TessaBlackstone,F,House of Lords,Labour,1
+2024-05-14,#DavidHannay,M,House of Lords,Crossbench,1
+2024-05-14,#MenziesCampbell,M,House of Commons,Liberal,1
+2024-05-14,#DavidLea,M,House of Lords,Labour,1
+2024-05-14,#HeleneHayman,F,House of Commons,Labour,1
+2024-05-14,#JohnMontagu,M,House of Commons,Crossbench,1
+2024-05-14,#FrancesDSouza,F,House of Lords,Crossbench,1
+2024-05-14,#JeremyBeecham,M,House of Lords,Labour,1
+2024-05-14,#AndrewAdonis,M,House of Lords,Labour,1
+2024-05-14,#JohnAnderson,M,House of Commons,Crossbench,1
+2024-05-14,#AlanSmith,M,House of Lords,Bishops,2
+2024-05-14,#MichaelBates,M,House of Commons,Conservative,7
+2024-05-14,#RaymondCollins,M,House of Lords,Labour,1
+2024-05-14,#ShaistaSheehan,F,House of Lords,Liberal Democrat,1
+2024-05-14,#JohnMontagu,M,House of Commons,Crossbench,1
+2024-05-14,#DavidAlton,M,House of Commons,Liberal,1
+2024-05-14,#HeleneHayman,F,House of Commons,Labour,1
+2024-05-14,#NazirAhmed,M,House of Lords,Labour,2
+2024-05-14,#MichaelBates,M,House of Commons,Conservative,6
+2024-05-14,#DavidHowell,M,House of Commons,Conservative,1
+2024-05-14,#DavidLea,M,House of Lords,Labour,1
+2024-05-14,#AlanSmith,M,House of Lords,Bishops,1
+2024-05-14,#ShaistaSheehan,F,House of Lords,Liberal Democrat,1
+2024-05-14,#MaryTwist,F,House of Commons,Labour,2
+2024-05-14,#RuthGeorge,F,House of Commons,Labour,2
+2024-05-14,#JeremyHunt,M,House of Commons,Conservative,4
+2024-05-14,#KevinBrennan,M,House of Commons,Labour,1
+2024-05-14,#EleanorReeves,F,House of Commons,Labour,2
+2024-05-14,#KevinFoster,M,House of Commons,Conservative,2
+2024-05-14,#AlistairBurt,M,House of Commons,Conservative,6
+2024-05-14,#StephenTwigg,M,House of Commons,Labour,1
+2024-05-14,#DavidEvennett,M,House of Commons,Conservative,1
+2024-05-14,#KeithVaz,M,House of Commons,Labour,1
+2024-05-14,#DenisTunnicliffe,M,House of Lords,Labour,2
+2024-05-14,#RonaFairhead,F,House of Lords,Conservative,4
+2024-05-14,#DavidHowell,M,House of Commons,Conservative,1
+2024-05-14,#JeremyPurvis,M,House of Lords,Liberal Democrat,1
+2024-05-14,#JoyceAnelay,F,House of Lords,Conservative,2
+2024-05-14,#AnnabelGoldie,F,House of Lords,Conservative,6
+2024-05-14,#LindsayGranshaw,F,House of Lords,Liberal Democrat,1
+2024-05-14,#DavidHannay,M,House of Lords,Crossbench,1
+2024-05-14,#FrankJudd,M,House of Commons,Labour,1
+2024-05-14,#JohnRoberts,M,House of Lords,Liberal Democrat,1
+2024-05-14,#KeithVaz,M,House of Commons,Labour,4
+2024-05-14,#AlisonThewliss,F,House of Commons,Scottish National Party,2
+2024-05-14,#TimothyLoughton,M,House of Commons,Conservative,2
+2024-05-14,#AlistairBurt,M,House of Commons,Conservative,4
+2024-05-14,#EleanorLaing,F,House of Commons,Conservative,1
+2024-05-14,#HeleneHayman,F,House of Commons,Labour,2
+2024-05-14,#TariqAhmad,M,House of Lords,Conservative,6
+2024-05-14,#RaymondCollins,M,House of Lords,Labour,1
+2024-05-14,#KishwerFalkner,F,House of Lords,Liberal Democrat,1
+2024-05-14,#AlanWest,M,House of Lords,Labour,1
+2024-05-14,#FionaHodgson,F,House of Lords,Conservative,1
+2024-05-14,#EmilyThornberry,F,House of Commons,Labour,4
+2024-05-14,#MarkField,M,House of Commons,Conservative,31
+2024-05-14,#JohnBercow,M,House of Commons,Conservative,1
+2024-05-14,#AndrewMitchell,M,House of Commons,Conservative,1
+2024-05-14,#StephenGethins,M,House of Commons,Scottish National Party,1
+2024-05-14,#DesmondSwayne,M,House of Commons,Conservative,1
+2024-05-14,#StephenTwigg,M,House of Commons,Labour,1
+2024-05-14,#MaryRobinson,F,House of Commons,Conservative,1
+2024-05-14,#KeithVaz,M,House of Commons,Labour,1
+2024-05-14,#JulianLewis,M,House of Commons,Conservative,1
+2024-05-14,#JoanneSwinson,F,House of Commons,Liberal Democrat,1
+2024-05-14,#RobertStewart,M,House of Commons,Conservative,1
+2024-05-14,#CatherineWest,F,House of Commons,Labour,1
+2024-05-14,#PhilipHollobone,M,House of Commons,Conservative,1
+2024-05-14,#RichardBurden,M,House of Commons,Labour,1
+2024-05-14,#RobertBlackman,M,House of Commons,Conservative,1
+2024-05-14,#MartinWhitfield,M,House of Commons,Labour,1
+2024-05-14,#JuliaLopez,F,House of Commons,Conservative,1
+2024-05-14,#GrahamJones,M,House of Commons,Labour,1
+2024-05-14,#JohnHowell,M,House of Commons,Conservative,1
+2024-05-14,#DianaJohnson,F,House of Commons,Labour,1
+2024-05-14,#KevinFoster,M,House of Commons,Conservative,1
+2024-05-14,#KevinBrennan,M,House of Commons,Labour,1
+2024-05-14,#AlisonThewliss,F,House of Commons,Scottish National Party,1
+2024-05-14,#CliveLewis,M,House of Commons,Labour,1
+2024-05-14,#DavidEdwards,M,House of Commons,Plaid Cymru,1
+2024-05-14,#PaulSweeney,M,House of Commons,Labour,1
+2024-05-14,#EmmaLewellBuck,F,House of Commons,Labour,1
+2024-05-14,#LloydRussellMoyle,M,House of Commons,Labour,1
+2024-05-14,#DouglasChapman,M,House of Commons,Scottish National Party,1
+2024-05-14,#DavidHowell,M,House of Commons,Conservative,3
+2024-05-14,#ValerieAmos,F,House of Lords,Labour,1
+2024-05-14,#RichardLuce,M,House of Commons,Conservative,1
+2024-05-14,#JulieSmith,F,House of Lords,Liberal Democrat,1
+2024-05-14,#JoyceAnelay,F,House of Lords,Conservative,1
+2024-05-14,#DavidHannay,M,House of Lords,Crossbench,1
+2024-05-14,#JeanCoussins,F,House of Lords,Crossbench,1
+2024-05-14,#ThomasJopling,M,House of Commons,Conservative,1
+2024-05-14,#FrankJudd,M,House of Commons,Labour,1
+2024-05-14,#DavidAlton,M,House of Commons,Liberal,1
+2024-05-14,#JohnAnderson,M,House of Commons,Crossbench,1
+2024-05-14,#JeremyPurvis,M,House of Lords,Liberal Democrat,1
+2024-05-14,#RaymondCollins,M,House of Lords,Labour,1
+2024-05-14,#TariqAhmad,M,House of Lords,Conservative,1
+2024-05-14,#KeithVaz,M,House of Commons,Labour,3
+2024-05-14,#AndrewMitchell,M,House of Commons,Conservative,5
+2024-05-14,#DouglasChapman,M,House of Commons,Scottish National Party,3
+2024-05-14,#StephenTwigg,M,House of Commons,Labour,2
+2024-05-14,#TanmanjeetDhesi,M,House of Commons,Labour,1
+2024-05-14,#JohnHowell,M,House of Commons,Conservative,2
+2024-05-14,#MichaelGapes,M,House of Commons,Labour,2
+2024-05-14,#VictoriaPrentis,F,House of Commons,Conservative,1
+2024-05-14,#RobertSeely,M,House of Commons,Conservative,2
+2024-05-14,#LindsayHoyle,M,House of Commons,Labour,1
+2024-05-14,#FabianHamilton,M,House of Commons,Labour,2
+2024-05-14,#AndrewMurrison,M,House of Commons,Conservative,2
+2024-05-14,#CliveLewis,M,House of Commons,Labour,2
+2024-05-14,#AlisonThewliss,F,House of Commons,Scottish National Party,2
+2024-05-14,#AndrewMurrison,M,House of Commons,Conservative,4
+2024-05-14,#RobertBlackman,M,House of Commons,Conservative,1
+2024-05-14,#JohnBercow,M,House of Commons,Conservative,1
+2024-05-14,#KeithVaz,M,House of Commons,Labour,1
+2024-05-14,#AlisonThewliss,F,House of Commons,Scottish National Party,1
+2024-05-14,#JohnBercow,M,House of Commons,Conservative,1
+2024-05-14,#RichardShannon,M,House of Commons,Democratic Unionist Party,1
+2024-05-14,#StephenTwigg,M,House of Commons,Labour,1
+2024-05-14,#DouglasChapman,M,House of Commons,Scottish National Party,1
+2024-05-14,#StephenTwigg,M,House of Commons,Labour,2
+2024-05-14,#JohnBercow,M,House of Commons,Conservative,2
+2024-05-14,#AndrewStephenson,M,House of Commons,Conservative,25
+2024-05-14,#ThomasTugendhat,M,House of Commons,Conservative,1
+2024-05-14,#EmilyThornberry,F,House of Commons,Labour,1
+2024-05-14,#HenryBellingham,M,House of Commons,Conservative,1
+2024-05-14,#StephenGethins,M,House of Commons,Scottish National Party,1
+2024-05-14,#AttaUrRehmanChishti,M,House of Commons,Conservative,1
+2024-05-14,#AnnClwyd,F,House of Commons,Labour,1
+2024-05-14,#PaulineLatham,F,House of Commons,Conservative,1
+2024-05-14,#RichardBurden,M,House of Commons,Labour,1
+2024-05-14,#MariaCaulfield,F,House of Commons,Conservative,1
+2024-05-14,#JaneDodds,F,House of Commons,Liberal Democrat,1
+2024-05-14,#TimothyLoughton,M,House of Commons,Conservative,1
+2024-05-14,#DavidDrew,M,House of Commons,Labour,1
+2024-05-14,#JohnRedwood,M,House of Commons,Conservative,1
+2024-05-14,#PatriciaGibson,F,House of Commons,Scottish National Party,1
+2024-05-14,#PhilipHollobone,M,House of Commons,Conservative,1
+2024-05-14,#MichaelGapes,M,House of Commons,Labour,1
+2024-05-14,#DavidEdwards,M,House of Commons,Plaid Cymru,1
+2024-05-14,#StuartMcDonald,M,House of Commons,Scottish National Party,1
+2024-05-14,#MatthewPerkins,M,House of Commons,Labour,1
+2024-05-14,#NicklausThomasSymonds,M,House of Commons,Labour,1
+2024-05-14,#AlisonThewliss,F,House of Commons,Scottish National Party,1
+2024-05-14,#BrendanOHara,M,House of Commons,Scottish National Party,1
+2024-05-14,#LloydRussellMoyle,M,House of Commons,Labour,1
+2024-05-14,#AlanSmith,M,House of Lords,Bishops,1
+2024-05-14,#PaulButler,M,House of Commons,Bishops,2
+2024-05-14,#JamesStopford,M,House of Commons,Conservative,5
+2024-05-14,#RaymondCollins,M,House of Lords,Labour,1
+2024-05-14,#SayeedaWarsi,F,House of Lords,Conservative,1
+2024-05-14,#MenziesCampbell,M,House of Commons,Liberal,1
+2024-05-14,#AlanSmith,M,House of Lords,Bishops,2
+2024-05-14,#TariqAhmad,M,House of Lords,Conservative,6
+2024-05-14,#RaymondCollins,M,House of Lords,Labour,1
+2024-05-14,#ShaistaSheehan,F,House of Lords,Liberal Democrat,1
+2024-05-14,#DavidAlton,M,House of Commons,Liberal,1
+2024-05-14,#AndrewAdonis,M,House of Lords,Labour,1
+2024-05-14,#RaymondCollins,M,House of Lords,Labour,2
+2024-05-14,#TariqAhmad,M,House of Lords,Conservative,11
+2024-05-14,#RobertHayward,M,House of Commons,Conservative,1
+2024-05-14,#JulieSmith,F,House of Lords,Liberal Democrat,1
+2024-05-14,#IndarjitSingh,M,House of Lords,Crossbench,1
+2024-05-14,#TessaBlackstone,F,House of Lords,Labour,1
+2024-05-14,#ChristopherHolmes,M,House of Lords,Non-affiliated,1
+2024-05-14,#MichaelGerman,M,House of Lords,Liberal Democrat,1
+2024-05-14,#JohnMcFall,M,House of Commons,Labour,2
+2024-05-14,#JohnReid,M,House of Commons,Labour,1
+2024-05-14,#PeterHain,M,House of Commons,Labour,1
+2024-05-14,#GeorgeFoulkes,M,House of Commons,Labour,1
+2024-05-14,#SimonBaynes,M,House of Commons,Conservative,2
+2024-05-14,#CarolineNokes,F,House of Commons,Conservative,2
+2024-05-14,#MargaretGreenwood,F,House of Commons,Labour,2
+2024-05-14,#JamesCleverly,M,House of Commons,Conservative,4
+2024-05-14,#EmilyThornberry,F,House of Commons,Labour,2
+2024-05-14,#GregoryHands,M,House of Commons,Conservative,40
+2024-05-14,#AndrewMitchell,M,House of Commons,Conservative,1
+2024-05-14,#ChristopherLaw,M,House of Commons,Scottish National Party,1
+2024-05-14,#RuthJones,F,House of Commons,Labour,1
+2024-05-14,#SarahDines,F,House of Commons,Conservative,1
+2024-05-14,#MatthewWestern,M,House of Commons,Labour,1
+2024-05-14,#SaraBritcliffe,F,House of Commons,Conservative,1
+2024-05-14,#PatriciaGibson,F,House of Commons,Scottish National Party,1
+2024-05-14,#ImranAhmadKhan,M,House of Commons,Conservative,1
+2024-05-14,#AlexanderCarmichael,M,House of Commons,Liberal Democrat,1
+2024-05-14,#AntonyHigginbotham,M,House of Commons,Conservative,1
+2024-05-14,#MaryTwist,F,House of Commons,Labour,1
+2024-05-14,#AlexanderStafford,M,House of Commons,Conservative,1
+2024-05-14,#RachaelMaskell,F,House of Commons,Labour,1
+2024-05-14,#JamesSunderland,M,House of Commons,Conservative,1
+2024-05-14,#FlorenceEshalomi,F,House of Commons,Labour,1
+2024-05-14,#PeterBone,M,House of Commons,Conservative,1
+2024-05-14,#AlynSmith,M,House of Commons,Scottish National Party,1
+2024-05-14,#MarcoLonghi,M,House of Commons,Conservative,1
+2024-05-14,#StellaCreasy,F,House of Commons,Labour,1
+2024-05-14,#AndrewGriffith,M,House of Commons,Conservative,1
+2024-05-14,#ZarahSultana,F,House of Commons,Labour,1
+2024-05-14,#ScottBenton,M,House of Commons,Conservative,1
+2024-05-14,#RichardThomson,M,House of Commons,Scottish National Party,1
+2024-05-14,#JohnHowell,M,House of Commons,Conservative,1
+2024-05-14,#TanmanjeetDhesi,M,House of Commons,Labour,1
+2024-05-14,#AndrewMurrison,M,House of Commons,Conservative,1
+2024-05-14,#JohnCryer,M,House of Commons,Labour,1
+2024-05-14,#BrendanOHara,M,House of Commons,Scottish National Party,1
+2024-05-14,#RobertBlackman,M,House of Commons,Conservative,1
+2024-05-14,#CliveEfford,M,House of Commons,Labour,1
+2024-05-14,#ChristopherStephens,M,House of Commons,Scottish National Party,1
+2024-05-14,#HarriettBaldwin,F,House of Commons,Conservative,1
+2024-05-14,#StephenDoughty,M,House of Commons,Labour,1
+2024-05-14,#GaganMohindra,M,House of Commons,Conservative,1
+2024-05-14,#ChristineJardine,F,House of Commons,Liberal Democrat,1
+2024-05-14,#RobertStewart,M,House of Commons,Conservative,1
+2024-05-14,#DavidDoogan,M,House of Commons,Scottish National Party,1
+2024-05-14,#HywelWilliams,M,House of Commons,Plaid Cymru,1
+2024-05-14,#LindsayHoyle,M,House of Commons,Labour,1
+2024-05-14,#PaulHolmes,M,House of Commons,Conservative,2
+2024-05-14,#AlisonThewliss,F,House of Commons,Scottish National Party,2
+2024-05-14,#JamesCleverly,M,House of Commons,Conservative,3
+2024-05-14,#RosalieWinterton,F,House of Commons,Labour,2
+2024-05-14,#TimothyLoughton,M,House of Commons,Conservative,2
+2024-05-14,#LaylaMoran,F,House of Commons,Liberal Democrat,1
+2024-05-14,#JohnHowell,M,House of Commons,Conservative,1
+2024-05-14,#SamuelTarry,M,House of Commons,Labour,1
+2024-05-14,#FeliciaDrummond,F,House of Commons,Conservative,1
+2024-05-14,#KirstenOswald,F,House of Commons,Scottish National Party,1
+2024-05-14,#JeromeMayhew,M,House of Commons,Conservative,1
+2024-05-14,#ClaudiaWebbe,F,House of Commons,Labour,1
+2024-05-14,#AlexanderStafford,M,House of Commons,Conservative,2
+2024-05-14,#KimJohnson,F,House of Commons,Labour,1
+2024-05-14,#NigelEvans,M,House of Commons,Conservative,4
+2024-05-14,#PatriciaGibson,F,House of Commons,Scottish National Party,2
+2024-05-14,#RachelHopkins,F,House of Commons,Labour,1
+2024-05-14,#FleurAnderson,F,House of Commons,Labour,1
+2024-05-14,#ZarahSultana,F,House of Commons,Labour,1
+2024-05-14,#AlisonThewliss,F,House of Commons,Scottish National Party,1
+2024-05-14,#RichardShannon,M,House of Commons,Democratic Unionist Party,1
+2024-05-14,#AlynSmith,M,House of Commons,Scottish National Party,1
+2024-05-14,#WayneDavid,M,House of Commons,Labour,1
+2024-05-14,#JamesCleverly,M,House of Commons,Conservative,1
+2024-05-14,#WilliamCash,M,House of Commons,Conservative,1
+2024-05-14,#AdamHolloway,M,House of Commons,Conservative,2
+2024-05-14,#JamesCleverly,M,House of Commons,Conservative,2
+2024-05-14,#ScottBenton,M,House of Commons,Conservative,2
+2024-05-14,#AlisonThewliss,F,House of Commons,Scottish National Party,2
+2024-05-14,#RebeccaLongBailey,F,House of Commons,Labour,2
+2024-05-14,#JamesCleverly,M,House of Commons,Conservative,5
+2024-05-14,#WayneDavid,M,House of Commons,Labour,1
+2024-05-14,#TobiasEllwood,M,House of Commons,Conservative,2
+2024-05-14,#JamesCleverly,M,House of Commons,Conservative,26
+2024-05-14,#LisaNandy,F,House of Commons,Labour,1
+2024-05-14,#LindsayHoyle,M,House of Commons,Labour,2
+2024-05-14,#ThomasTugendhat,M,House of Commons,Conservative,1
+2024-05-14,#AlynSmith,M,House of Commons,Scottish National Party,1
+2024-05-14,#DavidMundell,M,House of Commons,Conservative,1
+2024-05-14,#LaylaMoran,F,House of Commons,Liberal Democrat,1
+2024-05-14,#JohnHowell,M,House of Commons,Conservative,1
+2024-05-14,#RichardShannon,M,House of Commons,Democratic Unionist Party,1
+2024-05-14,#ScottBenton,M,House of Commons,Conservative,1
+2024-05-14,#JeremyCorbyn,M,House of Commons,Labour,1
+2024-05-14,#TimothyLoughton,M,House of Commons,Conservative,1
+2024-05-14,#SarahChampion,F,House of Commons,Labour,1
+2024-05-14,#PhilipHollobone,M,House of Commons,Conservative,1
+2024-05-14,#PeterGrant,M,House of Commons,Scottish National Party,1
+2024-05-14,#RobertStewart,M,House of Commons,Conservative,1
+2024-05-14,#GillianFurniss,F,House of Commons,Labour,1
+2024-05-14,#NicolaAiken,F,House of Commons,Conservative,1
+2024-05-14,#AndrewGwynne,M,House of Commons,Labour,1
+2024-05-14,#FeliciaDrummond,F,House of Commons,Conservative,1
+2024-05-14,#ChinyeluOnwurah,F,House of Commons,Labour,1
+2024-05-14,#DehennaFareham,F,House of Commons,Conservative,1
+2024-05-14,#LloydRussellMoyle,M,House of Commons,Labour,1
+2024-05-14,#AntonyHigginbotham,M,House of Commons,Conservative,1
+2024-05-14,#PatriciaGibson,F,House of Commons,Scottish National Party,1
+2024-05-14,#RobertBlackman,M,House of Commons,Conservative,1
+2024-05-14,#RaymondCollins,M,House of Lords,Labour,1
+2024-05-14,#TariqAhmad,M,House of Lords,Conservative,9
+2024-05-14,#MenziesCampbell,M,House of Commons,Liberal,1
+2024-05-14,#ArminkaHelic,F,House of Lords,Conservative,1
+2024-05-14,#JohnAnderson,M,House of Commons,Crossbench,1
+2024-05-14,#ChristopherCocksworth,M,House of Lords,Bishops,1
+2024-05-14,#KatyClark,F,House of Commons,Labour,1
+2024-05-14,#EmmaNicholson,F,House of Commons,Conservative,1
+2024-05-14,#AndrewFleming,M,House of Lords,Crossbench,1
+2024-05-14,#FrankJudd,M,House of Commons,Labour,1
+2024-05-14,#ElizabethBarker,F,House of Lords,Liberal Democrat,1
+2024-05-14,#PaulBlomfield,M,House of Commons,Labour,2
+2024-05-14,#JamesCleverly,M,House of Commons,Conservative,3
+2024-05-14,#WayneDavid,M,House of Commons,Labour,1
+2024-05-14,#EmmaLewellBuck,F,House of Commons,Labour,2
+2024-05-14,#GillianFurniss,F,House of Commons,Labour,2
+2024-05-14,#JamesCleverly,M,House of Commons,Conservative,4
+2024-05-14,#CharalambosCharalambous,M,House of Commons,Labour,1
