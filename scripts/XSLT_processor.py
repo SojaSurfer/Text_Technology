@@ -1,52 +1,123 @@
-import os
-import glob
+"""
+Batch XML Transformation Code
+
+This code applies an XSLT stylesheet to a collection of TEI-encoded XML 
+files containing parliamentary debates. It processes all files located 
+in the '2015-2022' directory, writes transformed results into the
+'output' directory, and omits any document that lacks speaker entries.
+
+Requirements:
+- Python 3.8 or higher
+- lxml library (install via `pip install lxml`)
+"""
+
 from pathlib import Path
 from lxml import etree
 
-# CONFIGURATION
-input_dir = r'C:\Users\janal\OneDrive\Dokumente\Uni\M.A. Digital_Humanities\SS25\Text Technology\Projekt\Yemen_Debates'
-output_dir = os.path.join(input_dir, 'output')
-xslt_file = os.path.join(input_dir, 'XSLT_2.xsl')
+# 1) CONFIGURATION
 
-list_person_doc = os.path.join(input_dir, 'ParlaMint-GB-listPerson.xml')
-list_org_doc = os.path.join(input_dir, 'ParlaMint-GB-listOrg.xml')
+# Absolute path of the directory.
+SCRIPT_DIR = Path(__file__).resolve().parent
 
-# Ensure output directory exists
-os.makedirs(output_dir, exist_ok=True)
+# Folder that contains the input TEI XML files.
+INPUT_DIR = SCRIPT_DIR / "2015-2022"
 
-# Set working directory so relative XSLT paths work
-os.chdir(input_dir)
+# Output destination.
+OUTPUT_DIR = SCRIPT_DIR / "output"
 
-# Load XSLT
-xslt_doc = etree.parse(xslt_file)
-transform = etree.XSLT(xslt_doc)
+# Support files for transformation:
+XSLT_FILE   = SCRIPT_DIR / "XSLT.xsl"
+LIST_PERSON = SCRIPT_DIR / "ParlaMint-GB-listPerson.xml"
+LIST_ORG    = SCRIPT_DIR / "ParlaMint-GB-listOrg.xml"
 
-# Process XML files
-xml_files = glob.glob(os.path.join(input_dir, '*.xml'))
-print(f"Found {len(xml_files)} XML files to process.")
+# File pattern for input XMLs (non-recursive).
+INPUT_GLOB = "*.xml"
 
-for xml_path in xml_files:
-    # Skip listPerson/listOrg themselves
-    if os.path.basename(xml_path) in ['ParlaMint-GB-listPerson.xml', 'ParlaMint-GB-listOrg.xml']:
-        continue
 
-    try:
-        xml_doc = etree.parse(xml_path)
+# 2) HELPER FUNCTIONS
 
-        result = transform(
-            xml_doc,
-            listPersonDoc=etree.XSLT.strparam('ParlaMint-GB-listPerson.xml'),
-            listOrgDoc=etree.XSLT.strparam('ParlaMint-GB-listOrg.xml')
-        )
+def ensure_environment() -> None:
 
-        base_name = os.path.basename(xml_path)
-        output_path = os.path.join(output_dir, base_name.replace('.xml', '.out.xml'))
+    # Creates INPUT_DIR and OUTPUT_DIR if they are missing.
+    INPUT_DIR.mkdir(exist_ok=True)
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-        with open(output_path, 'wb') as f:
-            f.write(etree.tostring(result, pretty_print=True, encoding='UTF-8'))
+    # Check for the three essential files.
+    for p in (XSLT_FILE, LIST_PERSON, LIST_ORG):
+        if not p.exists():
+            raise FileNotFoundError(f"Missing required file: {p}")
 
-        print(f"Processed: {base_name}")
 
-    except Exception as e:
-        print(f"Error processing {xml_path}: {e}")
+def load_transform(xslt_path: Path) -> etree.XSLT:
+
+    #Parse and compile the XSLT stylesheet into a reusable transformer.
+    xslt_doc = etree.parse(str(xslt_path.resolve()))
+    return etree.XSLT(xslt_doc)
+
+
+def has_speaker_element(result_tree: etree._ElementTree) -> bool:
+
+    # Checks if the transformation result contains at least one <speaker> element.
+    return result_tree.getroot().find('.//speaker') is not None
+
+
+def process_one_file(xml_path: Path, transform: etree.XSLT) -> bool:
+    
+    # Parse source XML
+    xml_doc = etree.parse(str(xml_path))
+
+    # Apply transformation, passing absolute URIs for document() references
+    result_tree = transform(
+        xml_doc,
+        listPersonDoc=etree.XSLT.strparam(LIST_PERSON.resolve().as_uri()),
+        listOrgDoc=etree.XSLT.strparam(LIST_ORG.resolve().as_uri()),
+    )
+
+    # Skip files without relevant debate content
+    if not has_speaker_element(result_tree):
+        return False
+
+    # Builds output filename and writes indented XML
+    out_path = OUTPUT_DIR / f"{xml_path.stem}.out.xml"
+    out_path.write_bytes(
+        etree.tostring(result_tree, pretty_print=True, encoding="UTF-8")
+    )
+    return True
+
+
+# 3) MAIN PROGRAM FLOW
+
+if __name__ == "__main__":
+    # Prepare environment and validate files
+    ensure_environment()
+
+    # Compile the stylesheet
+    transform = load_transform(XSLT_FILE)
+
+    # Finds input files; adjust for recursive search if required
+    xml_files = list(INPUT_DIR.glob(INPUT_GLOB))
+    print(f"Found {len(xml_files)} XML files in {INPUT_DIR}")
+
+    saved_count = 0
+    skipped_count = 0
+
+    # Transform loop
+    for xml_path in xml_files:
+        try:
+            saved = process_one_file(xml_path, transform)
+            if saved:
+                print(f"Processed & saved: {xml_path.name}")
+                saved_count += 1
+            else:
+                print(f"Skipped (no <speaker>): {xml_path.name}")
+                skipped_count += 1
+        except Exception as exc:
+            # Don't crash the whole batch—report and continue.
+            print(f"Error processing {xml_path.name}: {exc}")
+
+    # Final summary
+    print("\nSummary")
+    print("-------")
+    print(f"Saved:   {saved_count}")
+    print(f"Skipped: {skipped_count} (no <speaker>)")
 
