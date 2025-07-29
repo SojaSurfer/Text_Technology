@@ -9,7 +9,7 @@ A study project for extracting speaker data from British parliamentary debates o
 
 For our project we used the [ParlaMint-GB corpus](https://www.clarin.si/repository/xmlui/handle/11356/1912 "ParlaMint-GB") which is a linguistically annotated corpus of British parliamentary speeches between 2015 and 2022. It has a TEI-XML format and consists of three different file types: debate files, a speaker metadata file and a party metadata file.
 
-The ``data`` directory contains the extracted [XML](./data/xml/) files and corresponding [Cypher](./data/queries/) queries for each debate.
+The ``data`` directory contains the extracted [XML](./data/xml/) files and corresponding [Cypher](./data/queries/) queries for each debate. The ``scripts`` directory contains all scripts used for the project.
 
 ## 2 Prepare: XML
 
