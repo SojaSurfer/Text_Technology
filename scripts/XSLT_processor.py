@@ -1,5 +1,5 @@
 """The script applies an XSLT stylesheet to a collection of TEI-encoded XML files containing parliamentary debates. It processes all files located
-in the '2015-2022' directory, writes transformed results into the 'output' directory, and omits any document that lacks speaker entries.
+in the '2015-2022' directory, writes transformed results into the 'data/xml' directory, and omits any document that lacks speaker entries.
 """
 
 from pathlib import Path
@@ -15,7 +15,7 @@ SCRIPT_DIR = Path(__file__).resolve().parent
 INPUT_DIR = SCRIPT_DIR / "2015-2022"
 
 # Output destination.
-OUTPUT_DIR = SCRIPT_DIR / "output"
+OUTPUT_DIR = SCRIPT_DIR.parent / "data" / "output"
 
 # Support files for transformation:
 XSLT_FILE   = SCRIPT_DIR / "XSLT.xsl"
