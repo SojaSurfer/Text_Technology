@@ -1,4 +1,5 @@
 ipykernel==6.29.5
+lxml==6.0.0
 neo4j==5.28.1
 neo4j-viz==0.4.0
 pandas==2.3.0

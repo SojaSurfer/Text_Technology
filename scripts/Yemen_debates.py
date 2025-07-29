@@ -1,16 +1,19 @@
-from lxml import etree
+"""The Script scans the ParlaMint-GB corpus to identify and extract all debate files that contain discussions about Yemen."""
+
 import glob
 import os
 import shutil
 
+from lxml import etree
+
 # Namespace for TEI
-ns = {'tei': 'http://www.tei-c.org/ns/1.0'}
+ns = {"tei": "http://www.tei-c.org/ns/1.0"}
 
 # Adjust this to your corpus location
-files = glob.glob('ParlaMint-GB Corpus/ParlaMint-GB.TEI/[0-9][0-9][0-9][0-9]/*.xml')
+files = glob.glob("ParlaMint-GB Corpus/ParlaMint-GB.TEI/[0-9][0-9][0-9][0-9]/*.xml")
 
 # Output directory
-output_dir = 'Yemen_Debates'
+output_dir = "Yemen_Debates"
 
 # Create directory if it doesn't exist
 os.makedirs(output_dir, exist_ok=True)

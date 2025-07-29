@@ -1,20 +1,12 @@
-"""
-Batch XML Transformation Code
-
-This code applies an XSLT stylesheet to a collection of TEI-encoded XML 
-files containing parliamentary debates. It processes all files located 
-in the '2015-2022' directory, writes transformed results into the
-'output' directory, and omits any document that lacks speaker entries.
-
-Requirements:
-- Python 3.8 or higher
-- lxml library (install via `pip install lxml`)
+"""The script applies an XSLT stylesheet to a collection of TEI-encoded XML files containing parliamentary debates. It processes all files located
+in the '2015-2022' directory, writes transformed results into the 'output' directory, and omits any document that lacks speaker entries.
 """
 
 from pathlib import Path
+
 from lxml import etree
 
-# 1) CONFIGURATION
+## CONFIGURATION ##
 
 # Absolute path of the directory.
 SCRIPT_DIR = Path(__file__).resolve().parent
@@ -34,9 +26,10 @@ LIST_ORG    = SCRIPT_DIR / "ParlaMint-GB-listOrg.xml"
 INPUT_GLOB = "*.xml"
 
 
-# 2) HELPER FUNCTIONS
+## HELPER FUNCTIONS ##
 
 def ensure_environment() -> None:
+    """Create directories and check if all required files exist."""
 
     # Creates INPUT_DIR and OUTPUT_DIR if they are missing.
     INPUT_DIR.mkdir(exist_ok=True)
@@ -45,23 +38,25 @@ def ensure_environment() -> None:
     # Check for the three essential files.
     for p in (XSLT_FILE, LIST_PERSON, LIST_ORG):
         if not p.exists():
-            raise FileNotFoundError(f"Missing required file: {p}")
+            msg = f"Missing required file: {p}"
+            raise FileNotFoundError(msg)
 
 
-def load_transform(xslt_path: Path) -> etree.XSLT:
+def load_transform(xslt_path:Path) -> etree.XSLT:
+    """Parse and compile the XSLT stylesheet into a reusable transformer."""
 
-    #Parse and compile the XSLT stylesheet into a reusable transformer.
     xslt_doc = etree.parse(str(xslt_path.resolve()))
     return etree.XSLT(xslt_doc)
 
 
-def has_speaker_element(result_tree: etree._ElementTree) -> bool:
+def has_speaker_element(result_tree:etree._ElementTree) -> bool:
+    """Check if the transformation result contains at least one <speaker> element."""
 
-    # Checks if the transformation result contains at least one <speaker> element.
-    return result_tree.getroot().find('.//speaker') is not None
+    return result_tree.getroot().find(".//speaker") is not None
 
 
-def process_one_file(xml_path: Path, transform: etree.XSLT) -> bool:
+def process_one_file(xml_path:Path, transform:etree.XSLT) -> bool:
+    """Process a single XML file using the provided XSLT transformation."""
     
     # Parse source XML
     xml_doc = etree.parse(str(xml_path))
@@ -85,7 +80,7 @@ def process_one_file(xml_path: Path, transform: etree.XSLT) -> bool:
     return True
 
 
-# 3) MAIN PROGRAM FLOW
+## MAIN PROGRAM FLOW ##
 
 if __name__ == "__main__":
     # Prepare environment and validate files
