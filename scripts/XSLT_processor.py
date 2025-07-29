@@ -12,10 +12,10 @@ from lxml import etree
 SCRIPT_DIR = Path(__file__).resolve().parent
 
 # Folder that contains the input TEI XML files.
-INPUT_DIR = SCRIPT_DIR / "2015-2022"
+INPUT_DIR = SCRIPT_DIR / "data/raw/2015-2022"
 
 # Output destination.
-OUTPUT_DIR = SCRIPT_DIR.parent / "data" / "output"
+OUTPUT_DIR = SCRIPT_DIR.parent / "data" / "xml"
 
 # Support files for transformation:
 XSLT_FILE   = SCRIPT_DIR / "XSLT.xsl"
